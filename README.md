@@ -7,7 +7,7 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 </p>
 <h3>Das sind unsere Top Spiele:</h3>
 <p>
--Mo.Co
+-Mo.Co                                     -Fortnite
  <p>
  <img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" height="120"> 
 <p>
