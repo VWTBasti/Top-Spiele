@@ -7,7 +7,7 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 </p>
 <h2>Das sind unsere Top Spiele:</h2>
 <p>
--Mo.Co
+<h3>-Mo.Co</h3>
  <p>
 <img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120">
  <p>
