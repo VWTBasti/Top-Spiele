@@ -13,3 +13,4 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 
 -Brawl Stars
 </p>
+<img src="mo-co-icon.webp" width="120" height="120">
