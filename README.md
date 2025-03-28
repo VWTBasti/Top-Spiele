@@ -8,9 +8,9 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <h3>Das sind unsere Top Spiele:</h3>
 <p>
 -Mo.Co
-  
+ <img src="" height="120"> 
 -Fortnite
-
+<img src="" height="120">
 -Brawl Stars
 </p>
-<img src="[https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp](https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp)" height="120">
+<img src="" height="120">
