@@ -9,7 +9,17 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <p>
 -Mo.Co
  <p>
- <img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" height="120"> 
+ .quad [
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ ]
+  .quad img [img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" 
+  max-height: 100%;
+  max-width: 100%:
+  width: auto;
+  height: auto;
+ ]
 <p>
 -Fortnite
  <p>
