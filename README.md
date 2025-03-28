@@ -11,9 +11,10 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
  <p>
 <img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120">
  <p>
-
-  <h3>Mo.Co (Supercell, Android/IOS)<h/3>
-
+<h3>Mo.Co (Supercell, Android/IOS):</h3>
+Mo.Co ist ein neues MMO von Supercell, in dem man Monster tötet und Quests erledigen muss, um voran zu kommen.
+ 
+</p>
 <p>
 -Fortnite
  <p>
