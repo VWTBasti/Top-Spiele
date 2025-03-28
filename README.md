@@ -8,6 +8,8 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <h3>Das sind unsere Top Spiele:</h3>
 <p>
 -Mo.Co
+  
 -Fortnite
+
 -Brawl Stars
 </p>
