@@ -17,4 +17,4 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <p>
 -Brawl Stars
 </p>
-<img src="" height="120">
+<img src="" width="180 "height="120">
