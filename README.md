@@ -13,4 +13,4 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 
 -Brawl Stars
 </p>
-<img src="https://prod.assets.earlygamecdn.com/images/MocoPlayWithFriends.jpg?transform=article_webp" width="120" height="120">
+<img src="https://prod.assets.earlygamecdn.com/images/MocoPlayWithFriends.jpg?transform=article_webp" width="200" height="120">
