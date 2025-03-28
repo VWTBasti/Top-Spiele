@@ -9,17 +9,7 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <p>
 -Mo.Co
  <p>
- .quad [
-  display: flex;
-  justify-content: center;
-  align-items: center;
- ]
-  .quad img [img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" 
-  max-height: 100%;
-  max-width: 100%:
-  width: auto;
-  height: auto;
- ]
+<img src= "img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120"> 
 <p>
 -Fortnite
  <p>
@@ -27,4 +17,4 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <p>
 -Brawl Stars
 </p>
-<img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180 "height="110">
+<img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110">
