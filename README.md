@@ -13,7 +13,7 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <p>
 -Fortnite
  <p>
-<img src="" width="1159 "height="974">
+<img src="" width="180 "height="120">
 <p>
 -Brawl Stars
 </p>
