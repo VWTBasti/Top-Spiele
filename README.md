@@ -22,8 +22,8 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagd und Quests erledi
  <img src="https://th.bing.com/th/id/R.67e9a79760f0970a47ac01dbcbfa27e0?rik=A1hTf%2frvk3oajA&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-fortnite-battle-royale-logofortnitefortnite-battle-royalegameslogos-691522709004undi8.png&ehk=A2butZIXKlxBXUIFmS7LOrEw4jRjnX79Xkz4fNLSIqI%3d&risl=&pid=ImgRaw&r=0" width="180 "height="120">
 <p>
  <h3>Fortnite (Epic Games)</h3>
- Fortnite 
- 
+ Fortnite ist ein
+</p>
 -Brawl Stars
 </p>
 <img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110">
