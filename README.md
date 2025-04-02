@@ -35,7 +35,7 @@ Zu Mo.CO
  <p>In dem neuen MMO von Supercell kann man in eine offene Welt eintauchen, in der man Monster jagen kann. Ebenfalls gibt es die Möglichkeit, sein "Deck" individuell anzupassen. Das heißt, dass man seine Waffe, seine Gadgets, seine Passivfähigkeiten und seine Ringe aus einer großen Auswahl selbst zusammenstellen kann.</p>
  <p>Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
 <h3>Top Tipps zu Mo.Co</h3>
- <p>dfgdfg</p>
+ <p>1. Schnelles aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel.</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
