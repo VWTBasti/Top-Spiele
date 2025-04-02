@@ -8,7 +8,7 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 <h2>Das sind unsere Top Spiele:</h2>
 <p>
 <h3>-Mo.Co</h3>
- <a href=#Zu-Mo-CO-">Zu Mo.Co</a> <br>
+ <a href=#Zu-Mo.CO-">Zu Mo.Co</a> <br>
 <img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120">
  <p>
 <h3>Mo.Co (Supercell, Android/IOS):</h3>
