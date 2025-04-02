@@ -1,4 +1,4 @@
-<h1>Top Spiele für Jugendliche + dazugehörige Tipps</h1>
+<h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1>
 <p>
 Willkommen Freunde zu einem neuen Video auf meinem Kanal...!
 So etwas hört ihr bestimmt oft, wenn ihr Youtube schaut. Doch seid ihr euch sicher, ob ihr durch diese Videos wirklich besser werdet? Wir nämlich nicht!
