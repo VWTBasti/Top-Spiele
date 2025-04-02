@@ -36,8 +36,8 @@ Zu Mo.CO
  <p>Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
 <h3>Top Tipps zu Mo.Co</h3>
  <p>1. Schnelles aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen.</p>
- <p>2. </p>
- <p>dfgdfg</p>
+ <p>2. Fernkampfwaffen sind aktuell besonders stark.</p>
+ <p>3. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
