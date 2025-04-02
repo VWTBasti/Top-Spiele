@@ -31,7 +31,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
  <h3 id="zu-moco-">
 Zu Mo.CO
  </h3>
- <p>dfgdfg</p>
+ <p></p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
