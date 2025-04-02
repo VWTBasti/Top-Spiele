@@ -32,7 +32,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 Zu Mo.CO
  </h2>
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
- <p></p>
+ <p>In dem neuen MMO von Supercell kann man in eine offene Welt eintauchen, in der man Monster jagen kann. Ebenfalls gibt es die Möglichkeit, sein "Deck" individuell anzupassen. Das heißt, dass man seine Waffe, seine Gadgets, seine Passivfähigkeiten und seine Ringe aus einer großen Auswahl selbst ausrüsten kann.</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
