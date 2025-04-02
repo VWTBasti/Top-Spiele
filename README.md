@@ -20,7 +20,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
  <img src="https://th.bing.com/th/id/R.67e9a79760f0970a47ac01dbcbfa27e0?rik=A1hTf%2frvk3oajA&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-fortnite-battle-royale-logofortnitefortnite-battle-royalegameslogos-691522709004undi8.png&ehk=A2butZIXKlxBXUIFmS7LOrEw4jRjnX79Xkz4fNLSIqI%3d&risl=&pid=ImgRaw&r=0" width="180 "height="120">
 <p>
  <h3>Fortnite (Epic Games, alle Plattformen)</h3>
- Fortnite ist ein Spiel, in dem man gegen bis zu 100 Spieler kämpfen muss, um schließlich den "Epischen Sieg" zu erlangen. 
+ Fortnite ist ein Battle Royale, allerdings kann man auch in so gennanten Kreativ Maps(Spieler kreierte Landschaften und Situationen) üben um besser zu werden und im Battle Royale, die bis zu 99 Gegner zu besiegen und einen epischen Sieg zu holen.  
 </p>
 <h3>-Brawl Stars</h3>
 </p>
