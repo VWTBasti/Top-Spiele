@@ -5,7 +5,7 @@ So etwas hört ihr bestimmt oft, wenn ihr Youtube schaut. Doch seid ihr euch sic
 Auf dieser Website erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären euch, wieso das, was ihr zu diesen Spielen schaut schlecht ist und was ihr schauen und machen könnt, um besser zu werden. 
 Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, welche euch weiterhelfen. 
 </p>
-<h2>Das sind unsere Top Spiele:</h2>
+<h2>Das sind unsere Top Spiele:</h2> 
 <p>
 <h3>-Mo.Co</h3>
  <a href="#zu-moco-"><img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120"></a> <br>
