@@ -38,7 +38,7 @@ Zu Mo.CO
  <p>1. Schnelles aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen.</p>
  <p>2. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>3. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
- <p>dfgdfg</p>
+ <p>4. Mit anderen Spielern macht das Monster jagen viel mehr Spaß :).</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
