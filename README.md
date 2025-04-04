@@ -36,11 +36,11 @@ Zu Mo.CO
  <p>Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
 <h3>Top Tipps zu Mo.Co</h3>
  <p>1. Schnelles Aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen, welches einem XP vershaft welches wiederrum dazu führt das man hoch level. </p>
- <p>2. Um hoch zu leveln, brauch man 100.000 XP. Die verschiedenen Monster geben XP daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2.000 bis 10.000 XP verschaffen.
+ <p>2. Für jedes Level, brauch man 100.000 XP. Die verschiedenen Monster geben XP daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2.000 bis 10.000 XP verschaffen.
  <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
- <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="180 "height="120">
+ <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="120">
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
