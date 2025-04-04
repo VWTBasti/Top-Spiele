@@ -40,7 +40,7 @@ Zu Mo.CO
  <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
- <p>dfgdfg</p>
+ <p>https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
