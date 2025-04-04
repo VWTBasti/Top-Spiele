@@ -46,10 +46,9 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/techno-fiest-moco-gear.webp" width="120 "height="160">
 <p align="center"><h1> A Tier <h1></p>
-  <img src="" width="120" height="160">
-  <img src="" width="120" height="160">
-  <img src="" width="120" height="160">
-  <img src="" width="120" height="160">
-
+  <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
 
   
+" width="120" height="160">
