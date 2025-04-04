@@ -43,6 +43,7 @@ Zu Mo.CO
  <h1>                                                                                                      S Tier</h1>
  <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120 "height="160">
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
