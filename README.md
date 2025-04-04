@@ -40,7 +40,7 @@ Zu Mo.CO
  <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
-<p align="center"><h1> S Tier <h1></p>
+<p align="center"><h1> S Tier <h1><p>
  <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120 "height="160">
@@ -49,10 +49,10 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
-<p align="center"><h1> B Tier <h1></p>
+<p align="center"><h1> B Tier <h1><p>
   <img src="" width="120" height="160">
   <img src="" width="120" height="160">
-<p align="center"><h1> C Tier <h1></p>
+<p align="center"><h1> C Tier <h1><p>
   <img src="" width="120" height="160">
   <img src="" width="120" height="160">
   <img src="" width="120" height="160">
