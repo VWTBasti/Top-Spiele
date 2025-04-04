@@ -35,10 +35,11 @@ Zu Mo.CO
  <p>In dem neuen MMO von Supercell kann man in eine offene Welt eintauchen, in der man Monster jagen kann. Ebenfalls gibt es die Möglichkeit, sein "Deck" individuell anzupassen. Das heißt, dass man seine Waffe, seine Gadgets, seine Passivfähigkeiten und seine Ringe aus einer großen Auswahl selbst zusammenstellen kann.</p>
  <p>Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
 <h3>Top Tipps zu Mo.Co</h3>
- <p>1. Schnelles Aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen, welches einem xp vershaft welches wiederrum dazu führt das man hoch levelt.</p>
- <p>2. Fernkampfwaffen sind aktuell besonders stark.</p>
- <p>3. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
- <p>4. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß :).</p>
+ <p>1. Schnelles Aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen, welches einem xp vershaft welches wiederrum dazu führt das man hoch level. </p>
+ <p>2. Um hoch zu leveln brauch man 100.000 xp. Die verschiedenen Monster geben xp daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2000 bis 10000 xp verschaffen
+ <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
+ <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
+ <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß :).</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
  <p>dfgdfg</p>
