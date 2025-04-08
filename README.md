@@ -45,12 +45,36 @@ Zu Mo.CO
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
 
+<p align="center">
+  <h1>S Tier</h1>
+</p>
+
+<div style="text-align: center;">
+
+  <div style="display: inline-block; width: 120px; margin: 10px;">
+    <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120" height="160">
+    <p style="margin: 0;">Speedshot</p>
+  </div>
+
+  <div style="display: inline-block; width: 120px; margin: 10px;">
+    <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120" height="160">
+    <p style="margin: 0;">Spinsickle</p>
+  </div>
+
+  <div style="display: inline-block; width: 120px; margin: 10px;">
+    <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120" height="160">
+    <p style="margin: 0;">Squid Blades</p>
+  </div>
+
+</div>
+
+
+
  
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120 "height="160">
-
 
 <p align="center"><h1> A Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
