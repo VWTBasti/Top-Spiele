@@ -45,12 +45,14 @@ Zu Mo.CO
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
 
-.meinDiv {
-   width: 300px;
-   height: 200px;
-   background-color:lightgreen;
-   border: 2px solid black;
+<style>
+  .meinDiv {
+     width: 300px;
+     height: 200px;
+     background-color:lightgreen;
+     border: 2px solid black;
 }   
+</style> 
 <div class="meinDiv">
  Das ist mein Div
 </div>
