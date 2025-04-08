@@ -59,7 +59,7 @@ Zu Mo.CO
 
   <div style="display: inline-block; width: 120px; margin: 10px;">
     <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120" height="160">
-    <p style="margin: 0;">Speedshot</p>
+    <p style="margin: 0;">Speedshot. Sehr sehr schnell</p>
   </div>
 
 <p align="center"><h1> A Tier <h1><p>
