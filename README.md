@@ -46,12 +46,14 @@ Zu Mo.CO
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
 
 .meinDiv {
-   width=300px;
-   height=200px;
-   background-color=lightgreen;
-   border=2px solid black;
+   width: 300px;
+   height: 200px;
+   background-color:lightgreen;
+   border: 2px solid black;
 }   
 <div class="meinDiv">
+ Das ist mein Div
+</div>
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
