@@ -27,6 +27,10 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 <img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110">
 <h3>Brawl Stras (Supercell, Android/IOS):</h3>
 <p>Brawl Stars ist ein Spiel, wo man Charaktere hat und diese in verschiedenen Modis spielen kann. Zum Beispiel gibt es Showdown. Es gibt den Solo, Duo und Trio modus und das Ziel ist der letzte überlebende zu sein. Dies kann man machen indem man andere Spieler eleminiert. Auf die Platzierung ankommend kriegt man Trophäen. Durch das Sammeln von Trophäen und anderen Gegenständen, kann man Belohnungen freischalten. Die Charaktere werden Brawler genannt. Mittlerweile gibt es 89 Brawler mit unterschiedlichen Fähigkeiten welche man ausrüsten und benutzen kann. Das gennerelle Ziel von Brawl stars ist es so viele Trophäen wie möglich zu sammeln.</p>
+
+
+
+
  
  <h2 id="zu-moco-">
 Zu Mo.CO
@@ -36,10 +40,13 @@ Zu Mo.CO
  <p>Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
 <h3>Top Tipps zu Mo.Co</h3>
  <p>1. Schnelles Aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen, welches einem XP vershaft welches wiederrum dazu führt das man hoch level. </p>
- <p>2. Für jedes Level, brauch man 100.000 XP. Die verschiedenen Monster geben XP daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2.000 bis 10.000 XP verschaffen.
+ <p>2. Für jedes Level, brauch man 100.000 XP. Die verschiedenen Monster geben XP daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner Fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2.000 bis 10.000 XP verschaffen.
  <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
+
+
+ 
 <p align="center"><h1> S Tier <h1><p>
  <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
