@@ -45,22 +45,12 @@ Zu Mo.CO
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
 
-<style>
-  .meinDiv {
-     width: 300px;
-     height: 200px;
-     background-color:lightgreen;
-     border: 2px solid black;
-}   
-</style> 
-<div class="meinDiv">
- Das ist mein Div
-</div>
+ 
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120 "height="160">
- </div>
+
 <p align="center"><h1> A Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
