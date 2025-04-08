@@ -51,6 +51,17 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120 "height="160">
 
+  <p align="center">
+  <h1>S Tier</h1>
+</p>
+
+<div style="text-align: center;">
+  
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120" height="160">
+    <p>Speedshot — Sehr stark!</p>
+  </div>
+
 <p align="center"><h1> A Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
