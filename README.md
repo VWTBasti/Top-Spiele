@@ -49,6 +49,7 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/techno-fiest-moco-gear.webp" width="120 "height="160">
 <p align="center"><h1> B Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/monster-slugger-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/toothpick-shield-moco-gear.webp" width="120" height="160">
