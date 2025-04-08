@@ -51,7 +51,7 @@ Zu Mo.CO
 
   <div style="display: inline-block; width: 120px; margin: 10px;">
     <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120" height="160">
-    <div style="text-align: center;">Speedshot</div>
+    <div style="text-align: center;">Speedshot  der beste bogen aller zeitem</div>
   </div>
 
   <div style="display: inline-block; width: 120px; margin: 10px;">
