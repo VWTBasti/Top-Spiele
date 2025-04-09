@@ -71,8 +71,9 @@ Zu Mo.CO
  <h1>Gadget Tier List</h1>
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/really-cool-sticker-moco-gear.webp" width="120 "height="160">
-  <img src="" width="120 "height="160">
-  <img src="" width="120 "height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/pepper-spray-moco-gear.webp" width="120 "height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/vitamin-shot-moco-gear.webp" width="120 "height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/life-jacket-moco-gear.webp" width="120 "height="160">
 
 <p align="center"><h1> A Tier <h1><p>
   <img src="" width="120" height="160">
