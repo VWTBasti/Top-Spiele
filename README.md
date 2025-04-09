@@ -83,6 +83,7 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/multi-zapper-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/smart-fireworkds-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/life-jacket-moco-gear.webp" width="120 "height="160">
+   <img src="https://images.mobi.gg/uploads/2025/03/monster-taser-moco-gear.webp" width="120" height="160">
 
  
  <p align="center"><h1> B Tier <h1><p>
