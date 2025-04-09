@@ -65,3 +65,24 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/portable-portal-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/medecine-bomb-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
+
+
+
+ <h1>Gadget Tier List</h1>
+ <p align="center"><h1> S Tier <h1><p>
+  <img src="https://images.mobi.gg/uploads/2025/03/really-cool-sticker-moco-gear.webp" width="120 "height="160">
+  <img src="" width="120 "height="160">
+  <img src="" width="120 "height="160">
+
+<p align="center"><h1> A Tier <h1><p>
+  <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/techno-fiest-moco-gear.webp" width="120 "height="160">
+<p align="center"><h1> B Tier <h1><p>
+  <img src="https://images.mobi.gg/uploads/2025/03/monster-slugger-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/toothpick-shield-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/cpu-bomb-moco-gear.webp" width="120" height="160"> 
+<p align="center"><h1> C Tier <h1><p>
+  <img src="https://images.mobi.gg/uploads/2025/03/portable-portal-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/medecine-bomb-moco-gear.webp" width="120" height="160">
+  <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
