@@ -15,6 +15,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
  
 </p>
 <a href="#Waffen-Tier-List">Zur Waffen Tier List</a>
+<a href="#Gadget-Tier-List">Zur Gadget Tier List</a>
 <p>
 <h3>-Fortnite</h3>
 </p>
