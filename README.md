@@ -46,7 +46,7 @@ Zu Mo.CO
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
 
 
- 
+ <h3>Waffen Tier List</h3>
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
