@@ -14,6 +14,7 @@ Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, we
 Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledigen muss, um voran zu kommen. Es gibt auch Welten im Spiel, die man entdecken kann. Diese Welten sind levelartig aufgebaut. Ebenfalls gibt es Bosse, die man besiegen kann.
  
 </p>
+<a href="https://www.w3schools.com/" target="_blank">Zur Waffen Tier List</a>
 <p>
 <h3>-Fortnite</h3>
 </p>
