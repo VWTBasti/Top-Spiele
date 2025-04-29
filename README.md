@@ -95,4 +95,5 @@ Zu Mo.CO
   <p align="center"><h1> C Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/super-loud-whistle-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/splash-heal-moco-gear.webp" width="120" height="160">
-  <img src="" width="120" height="160">
+  <img src="![image](https://github.com/user-attachments/assets/38a85ecf-47ae-43a2-8aff-c83394bc5d0f)
+" width="120" height="160">
