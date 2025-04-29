@@ -84,6 +84,7 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/smart-fireworkds-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/life-jacket-moco-gear.webp" width="120 "height="160">
    <img src="https://images.mobi.gg/uploads/2025/03/monster-taser-moco-gear.webp" width="120" height="160">
+   <img src="https://dotgg.gg/moco/wp-content/uploads/sites/41/2025/03/UI_Gadgets_Shelldon-284x300.png" width="120" height="160">
 
  
  <p align="center"><h1> B Tier <h1><p>
@@ -95,5 +96,3 @@ Zu Mo.CO
   <p align="center"><h1> C Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/super-loud-whistle-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/splash-heal-moco-gear.webp" width="120" height="160">
-  <img src="![image](https://github.com/user-attachments/assets/38a85ecf-47ae-43a2-8aff-c83394bc5d0f)
-" width="120" height="160">
