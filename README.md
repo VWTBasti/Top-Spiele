@@ -91,6 +91,8 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/revitalizing-mist-moco-gear.webp" width="120" height="160">
   <img src="https://static.wikia.nocookie.net/mocosupercell/images/f/ff/UI_Gadgets_Spicy_Dagger.png/revision/latest?cb=20250319170425" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/boombox-moco-gear.webp" width="120" height="160"> 
+    <img src="https://moinfo.co/wp-content/uploads/2025/03/UI_Gadgets_Explosive_6_Pack.png" width="120" height="160"> 
+
 
   
   <p align="center"><h1> C Tier <h1><p>
