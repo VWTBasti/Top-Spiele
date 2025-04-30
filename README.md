@@ -8,7 +8,7 @@ Auf dieser Website erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären
 Außerdem werden wir euch geheime <b>Easter Eggs</b> und <b>Tipps</b> zeigen, welche euch weiterhelfen. 
 </p>
 <h2>Das sind unsere Top Spiele:</h2> 
-<p>
+<p> 
 <h3>-Mo.Co</h3>
  <a href="#zu-moco-"><img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120"></a> <br>
  <p>
