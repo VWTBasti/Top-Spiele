@@ -105,7 +105,7 @@ Zu Mo.CO
 
 
 
- <h2 id="zu-moco-">
+ <h2 id="zu Brawl Stars-">
 Zu Brawl Stars
  </h2>
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
