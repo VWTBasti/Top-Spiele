@@ -2,9 +2,7 @@
 
 <h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1>
 <p>
-Willkommen Freunde zu einem neuen Video auf meinem Kanal...!
-So etwas hört ihr bestimmt oft, wenn ihr Youtube schaut. Doch seid ihr euch sicher, ob ihr durch diese Videos wirklich besser werdet? Wir nämlich nicht!
-Auf dieser Website erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären euch, was ihr machen könnt, um besser zu werden. 
+Wilkommen zu unser Website. Hier erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären euch, was ihr machen könnt, um in diesen besser zu werden. Wir sagen euch tipps und tricks. Außerdem findet ihr hier bestimmt neue Information zu den Spielen.
 </p>
 <h2>Das sind unsere Top Spiele:</h2> 
 <p> 
