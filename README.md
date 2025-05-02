@@ -121,5 +121,5 @@ Zu Brawl Stars
 
  
 
- <img src="file:///C:/Users/3157/Downloads/my-image.png" width="120" height="160">
+ <img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746167598.png" width="120" height="160">
 
