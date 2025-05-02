@@ -1,5 +1,4 @@
 
-
 <h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1>
 <p>
 Wilkommen zu unser Website. Hier erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären euch, was ihr machen könnt, um in diesen besser zu werden. Wir sagen euch tipps und tricks. Außerdem findet ihr hier bestimmt neue Information zu den Spielen.
