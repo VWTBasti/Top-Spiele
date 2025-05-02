@@ -121,4 +121,5 @@ Zu Brawl Stars
 
 
 
-file:///C:/Users/3157/Downloads/my-image.png
+ <img src="file:///C:/Users/3157/Downloads/my-image.png" width="120" height="160">
+
