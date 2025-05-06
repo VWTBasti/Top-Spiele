@@ -1,7 +1,6 @@
-
 <h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1>
 <p>
-Wilkommen zu unser Website. Hier erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären euch, was ihr machen könnt, um in diesen besser zu werden. Wir sagen euch Tipps und Tricks. Außerdem findet ihr hier bestimmt neue Information zu den Spielen.
+Wilkommen zu unser Website. Hier erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären euch, was ihr machen könnt, um in diesen besser zu werden. Wir sagen euch tipps und tricks. Außerdem findet ihr hier bestimmt neue Information zu den Spielen.
 </p>
 <h2>Das sind unsere Top Spiele:</h2> 
 <p> 
@@ -50,7 +49,8 @@ Zu Mo.CO
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
 
 
- <h1>Waffen Tier List</h1>
+ <h1 id="Waffen-Tier-List">
+  Waffen Tier List</h1>
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
@@ -71,7 +71,8 @@ Zu Mo.CO
 
 
 
- <h1>Gadget Tier List</h1>
+ <h1 id="Gadget-Tier-List">
+  Gadget Tier List</h1>
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/really-cool-sticker-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/pepper-spray-moco-gear.webp" width="120 "height="160">
@@ -117,9 +118,9 @@ Zu Brawl Stars
  
  <p>5. Die Steuerelemente können individuell angepasst werden. </p>
 
-<h1>Das ist unsere Tierlist</h1>
+
 
  
 
- <img src="(https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746519941.png)" width="550" height="500">
+ <img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746167598.png" width="550" height="500">
 
