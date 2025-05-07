@@ -51,6 +51,7 @@ Zu Mo.CO
 
  <h1 id="Waffen-Tier-List">
   Waffen Tier List</h1>
+  <h2>Alle Tier Lists basieren auf unserer eigenen Meinung und ein paar Inspirationen!</h2>
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
