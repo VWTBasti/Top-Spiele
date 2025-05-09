@@ -123,5 +123,5 @@ Zu Brawl Stars
 
  
 
-<img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746520214.png" width="900" height="850">
-<img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars-all-wasabi-powers-18133628-1746612097.png" width="900" height="1100">
+<img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746520214.png" width="1000" height="950">
+<img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars-all-wasabi-powers-18133628-1746612097.png" width="1000" height="1200">
