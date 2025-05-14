@@ -30,9 +30,9 @@
 <body>
     <div class="navbar">
         <a href="#home">Home</a>
-        <a href="#about">Über uns</a>
-        <a href="#services">Services</a>
-        <a href="#contact">Kontakt</a>
+        <a href="#about">Mo.Co uns</a>
+        <a href="#services">Fortnite</a>
+        <a href="#contact">Brawl Stars</a>
     </div>
 </body>
 </html>
