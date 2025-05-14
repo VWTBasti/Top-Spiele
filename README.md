@@ -155,8 +155,7 @@ Zu Brawl Stars
  <p>2. Um am Ende der Runde zu gewinnen sollten die richtigen Gadgets und Starpowers genutzt werden. (Falls man es nicht selber weiß, kann man im Internet recherchieren.)</p>
  <p>3. ❗❗❗Auto Aim ist nicht immer die beste Variante❗❗❗</p>
  <p>4. Taktisches Ausweichen ist wichtig!</p>
- 
- <p>5. Die Steuerelemente können individuell angepasst werden. </p>
+ <p>5. Die Steuerelemente können individuell angepasst werden. </p> 
 
 
 
