@@ -31,7 +31,7 @@
     <div class="navbar">
         <a href="#home">Home</a>
         <a href="#zu-moco-">Mo.Co </a>
-        <a href="#dmdmdmd">Fortnite</a>
+        <a href="#zu Fortnite-">Fortnite</a>
         <a href="#zu Brawl Stars-">Brawl Stars</a>
     </div>
 </body>
@@ -140,6 +140,11 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/super-loud-whistle-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/splash-heal-moco-gear.webp" width="120" height="160">
 
+
+
+ <h2 id="zu Fortnite-">
+Zu Fortnite
+ </h2>
 
 
 
