@@ -31,7 +31,7 @@
     <div class="navbar">
         <a href="#home">Home</a>
         <a href="#zu-moco-">Mo.Co </a>
-        <a href="#zu Brawl Stars->Fortnite</a>
+        <a href="#zu Brawl Stars-">Fortnite</a>
         <a href="#contact">Brawl Stars</a>
     </div>
 </body>
