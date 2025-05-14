@@ -30,7 +30,7 @@
 <body>
     <div class="navbar">
         <a href="#home">Home</a>
-        <a href="#about"><img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="20" height="20">Mo.Co uns</a>
+        <a href="#about"><img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="30" height="30">Mo.Co uns</a>
         <a href="#services">Fortnite</a>
         <a href="#contact">Brawl Stars</a>
     </div>
