@@ -30,7 +30,7 @@
 <body>
     <div class="navbar">
         <a href="#home">Home</a>
-        <a href="#about">Mo.Co </a>
+        <a href="#zu-moco-">Mo.Co </a>
         <a href="#services">Fortnite</a>
         <a href="#contact">Brawl Stars</a>
     </div>
