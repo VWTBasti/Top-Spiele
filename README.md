@@ -44,16 +44,12 @@ Wilkommen zu unser Website. Hier erfahrt ihr, was <b>unsere Top Spiele</b> sind.
 <h2>Das sind unsere Top Spiele:</h2> 
 <p> 
 <h3>-Mo.Co</h3>
- <a href="#zu-moco-"><img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120"></a> <br>
+<img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120"></a> <br>
  <p>
 <h3>Mo.Co (Supercell, Android/IOS):</h3>
 Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledigen muss, um voran zu kommen. Es gibt auch Welten im Spiel, die man entdecken kann. Diese Welten sind levelartig aufgebaut. Ebenfalls gibt es Bosse, die man besiegen kann.
  
 </p>
-<p>
-<a href="#Waffen-Tier-List">Zur Waffen Tier List</a>
-</p>
-<a href="#Gadget-Tier-List">Zur Gadget Tier List</a>
 <p>
 <h3>-Fortnite</h3>
 </p>
