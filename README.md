@@ -39,7 +39,15 @@
 
 <h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1>
 <p>
-Wilkommen zu unser Website. Hier erfahrt ihr, was <b>unsere Top Spiele</b> sind. Wir erklären euch, was ihr machen könnt, um in diesen besser zu werden. Wir sagen euch Tipps und Tricks. Außerdem findet ihr hier bestimmt neue Information zu den Spielen.
+Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
+Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
+
+Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und Insider-Wissen an die Hand, mit denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache Erklärungen: Wir machen’s dir leicht, besser zu werden.
+
+Zusätzlich halten wir dich immer auf dem Laufenden, was Updates, neue Inhalte oder spannende Entwicklungen in der Gaming-Welt angeht. So verpasst du garantiert nichts mehr. Und wer weiß – vielleicht findest du hier ja sogar dein nächstes Lieblingsspiel?
+
+Also klick dich durch, schnapp dir die besten Tipps und hab einfach Spaß.
+Let’s go – viel Erfolg und natürlich: viel Spaß beim Zocken!
 </p>
 <h2>Das sind unsere Top Spiele:</h2> 
 <p> 
