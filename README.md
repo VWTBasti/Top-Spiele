@@ -61,7 +61,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 </p>
 <h3>-Brawl Stars</h3>
 </p>
- <a href="#zu Brawl Stars-"><img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110"></a> <br>
+<img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110"></a> <br>
  </p>
 <h3>Brawl Stras (Supercell, Android/IOS):</h3>
 <p>Brawl Stars ist ein Spiel, wo man Charaktere hat und diese in verschiedenen Modis spielen kann. Zum Beispiel gibt es Showdown. Es gibt den Solo, Duo und Trio modus und das Ziel ist der letzte überlebende zu sein. Dies kann man machen indem man andere Spieler eleminiert. Auf die Platzierung ankommend kriegt man Trophäen. Durch das Sammeln von Trophäen und anderen Gegenständen, kann man Belohnungen freischalten. Die Charaktere werden Brawler genannt. Mittlerweile gibt es 89 Brawler mit unterschiedlichen Fähigkeiten welche man ausrüsten und benutzen kann. Das gennerelle Ziel von Brawl stars ist es so viele Trophäen wie möglich zu sammeln.</p>
