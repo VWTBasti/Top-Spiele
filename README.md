@@ -36,25 +36,24 @@
     </div>
 </body>
 </html>
-
-<h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1>
+<p><u><a target="_blank" style="color: #00ccff;"></p><h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1></a></u>
 <p>
-Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
-Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
+&emsp;Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
+Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC &emsp;oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
 
-Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und Insider-Wissen an die Hand, mit denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache Erklärungen: Wir machen’s dir leicht, besser zu werden.
+Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und Insider-Wissen an die Hand, mit &emsp;denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache &emsp;Erklärungen: Wir machen’s dir leicht, besser zu werden.
 
 Zusätzlich halten wir dich immer auf dem Laufenden, was Updates, neue Inhalte oder spannende Entwicklungen in der Gaming-Welt angeht. So verpasst du garantiert nichts mehr. Und wer weiß – vielleicht findest du hier ja sogar dein nächstes Lieblingsspiel?
 
 Also klick dich durch, schnapp dir die besten Tipps und hab einfach Spaß.
 Let’s go – viel Erfolg und natürlich: viel Spaß beim Zocken!
 </p>
-<h2>Das sind unsere Top Spiele:</h2> 
+<p><u><a target="_blank" style="color: #00ccff;"></p><h2>Das sind unsere Top Spiele:</h2></a></u>
 <p> 
 <h3>-Mo.Co</h3>
 <img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120"></a> <br>
  <p>
-<h3>Mo.Co (Supercell, Android/IOS):</h3>
+<p><u><a target="_blank" style="color: #00ccff;"></p><h3>Mo.Co (Supercell, Android/IOS):</h3></a></u>
 Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledigen muss, um voran zu kommen. Es gibt auch Welten im Spiel, die man entdecken kann. Diese Welten sind levelartig aufgebaut. Ebenfalls gibt es Bosse, die man besiegen kann.
  
 </p>
@@ -64,14 +63,14 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 <img src="https://th.bing.com/th/id/R.67e9a79760f0970a47ac01dbcbfa27e0?rik=A1hTf%2frvk3oajA&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-fortnite-battle-royale-logofortnitefortnite-battle-royalegameslogos-691522709004undi8.png&ehk=A2butZIXKlxBXUIFmS7LOrEw4jRjnX79Xkz4fNLSIqI%3d&risl=&pid=ImgRaw&r=0" width="120" height="120">
  <p>
 <p>
- <h3>Fortnite (Epic Games, alle Plattformen)</h3>
+ <p><u><a target="_blank" style="color: #00ccff;"></p><h3>Fortnite (Epic Games, alle Plattformen)</h3></a></u>
  Fortnite ist ein Online Battle Royale Game, allerdings kann man auch in so gennanten Kreativ Maps (Spieler kreierte Landschaften und Situationen) üben um besser zu werden und im Battle Royale, die bis zu 99 Gegner besiegen um einen epischen Sieg zu holen.  
 </p>
 <h3>-Brawl Stars</h3>
 </p>
 <img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110"></a> <br>
  </p>
-<h3>Brawl Stras (Supercell, Android/IOS):</h3>
+<p><u><a target="_blank" style="color: #00ccff;"></p><h3>Brawl Stras (Supercell, Android/IOS):</h3></a></u>
 <p>Brawl Stars ist ein Spiel, wo man Charaktere hat und diese in verschiedenen Modis spielen kann. Zum Beispiel gibt es Showdown. Es gibt den Solo, Duo und Trio modus und das Ziel ist der letzte überlebende zu sein. Dies kann man machen indem man andere Spieler eleminiert. Auf die Platzierung ankommend kriegt man Trophäen. Durch das Sammeln von Trophäen und anderen Gegenständen, kann man Belohnungen freischalten. Die Charaktere werden Brawler genannt. Mittlerweile gibt es 89 Brawler mit unterschiedlichen Fähigkeiten welche man ausrüsten und benutzen kann. Das gennerelle Ziel von Brawl stars ist es so viele Trophäen wie möglich zu sammeln.</p>
 
 
@@ -276,3 +275,5 @@ Zu Brawl Stars
 
 <p>hi</p>
 <p><a target="_blank" style="color: #c56e1c;">Epic Games Support-Seite</p>
+
+<p><u>Hallo</u></p>
