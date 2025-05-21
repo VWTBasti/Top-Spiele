@@ -78,7 +78,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 
  
  <h2 id="zu-moco-">
-Zu Mo.CO
+<p><u><a target="_blank" style="color: #00ccff;"></p>Zu Mo.CO</a></u></h2>
  </h2>
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
  <p>In dem neuen MMO von Supercell kann man in eine offene Welt eintauchen, in der man Monster jagen kann. Ebenfalls gibt es die Möglichkeit, sein "Deck" individuell anzupassen. Das heißt, dass man seine Waffe, seine Gadgets, seine Passivfähigkeiten und seine Ringe aus einer großen Auswahl selbst zusammenstellen kann.</p>
@@ -88,18 +88,17 @@ Zu Mo.CO
  <p>2. Für jedes Level, brauch man 100.000 XP. Die verschiedenen Monster geben XP daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner Fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2.000 bis 10.000 XP verschaffen.
  <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
- <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😁.</p>
+ <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß.</p>
+&nbsp; 
+<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists basieren auf unserer eigenen Meinung und ein paar Inspirationen!</a></h2>
 
-
- <h1 id="Waffen-Tier-List">
-  Waffen Tier List</h1>
-  <h2>Alle Tier Lists basieren auf unserer eigenen Meinung und ein paar Inspirationen!</h2>
- <p align="center"><h1> S Tier <h1><p>
+<p><a target="_blank" style="color: #00ccff;"></p><h1>Waffen Tier List</h1></a>
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> S Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/squid-blades-moco-gear.webp" width="120 "height="160">
 
-<p align="center"><h1> A Tier <h1><p>
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> A Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/techno-fiest-moco-gear.webp" width="120 "height="160">
@@ -113,9 +112,7 @@ Zu Mo.CO
   <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
 
 
-
- <h1 id="Gadget-Tier-List">
-  Gadget Tier List</h1>
+ <h1>Gadget Tier List</h1>
  <p align="center"><h1> S Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/really-cool-sticker-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/pepper-spray-moco-gear.webp" width="120 "height="160">
@@ -145,16 +142,18 @@ Zu Mo.CO
 
 
 
- <h2 id="zu Fortnite-">
+ <h1 id="zu Fortnite-">
 Zu Fortnite
- </h2>
+ </h1>
 <p>
 Fortnite ist ein sehr komplexes Spiel was dazu führt das es keine konkreten generellen Tips geht. Wir werden auf unserer Website den Battle Royale und Reload Modus besprechen. Wir werden auch ein paar hilfreiche kreativ Maps teilen.
 <p>
 <h3>Für Anfänger</h3>
-<h4>Infos:</h4>
-<p>
-Battle Royale ist der standard Modus
+<h4>Infos:</h4><p>
+
+
+
+
 
 
  <h2 id="zu Brawl Stars-">
@@ -231,4 +230,3 @@ Zu Brawl Stars
     </style>
 </head>
 <body>
-
