@@ -152,6 +152,7 @@ Zu Fortnite
 Fortnite ist ein sehr komplexes Spiel was dazu führt das es keine konkreten generellen Tips geht. Wir werden auf unserer Website den Battle Royale und Reload Modus besprechen. Wir werden auch ein paar hilfreiche kreativ Maps teilen.
 <p>
 <h3>Für Anfänger</h3>
+<h4>Infos:</h4><p>
 
 
 
