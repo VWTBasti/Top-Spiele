@@ -88,7 +88,7 @@ Zu Mo.CO
  <p>2. Für jedes Level, brauch man 100.000 XP. Die verschiedenen Monster geben XP daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner Fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2.000 bis 10.000 XP verschaffen.
  <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
- <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😊.</p>
+ <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß 😁.</p>
 
 
  <h1 id="Waffen-Tier-List">
@@ -152,8 +152,9 @@ Zu Fortnite
 Fortnite ist ein sehr komplexes Spiel was dazu führt das es keine konkreten generellen Tips geht. Wir werden auf unserer Website den Battle Royale und Reload Modus besprechen. Wir werden auch ein paar hilfreiche kreativ Maps teilen.
 <p>
 <h3>Für Anfänger</h3>
-<h4>Infos:</h4><p>
-
+<h4>Infos:</h4>
+<p>
+Battle Royale ist der standard Modus
 
 
  <h2 id="zu Brawl Stars-">
