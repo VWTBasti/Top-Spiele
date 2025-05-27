@@ -1,41 +1,83 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website-Leiste</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        .navbar {
-            background-color: #333;
-            overflow: hidden;
-            display: flex;
-            padding: 10px 20px;
-        }
-        .navbar a {
-            color: white;
-            text-decoration: none;
-            padding: 14px 20px;
-            text-align: center;
-        }
-        .navbar a:hover {
-            background-color: #575757;
-            border-radius: 5px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ausklappbare Leiste</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+    }
+    .sidebar {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+    }
+    .sidebar a {
+      padding: 10px 15px;
+      text-decoration: none;
+      font-size: 18px;
+      color: white;
+      display: block;
+      transition: 0.3s;
+    }
+    .sidebar a:hover {
+      background-color: #575757;
+    }
+    .open-btn {
+      font-size: 20px;
+      cursor: pointer;
+      background-color: #111;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      position: fixed;
+      top: 20px;
+      left: 20px;
+    }
+    .close-btn {
+      position: absolute;
+      top: 10px;
+      right: 25px;
+      font-size: 30px;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
 </head>
 <body>
-    <div class="navbar">
-        <a href="#home">Home</a>
-        <a href="#zu-moco-">Mo.Co </a>
-        <a href="#zu Fortnite-">Fortnite</a>
-        <a href="#zu Brawl Stars-">Brawl Stars</a>
-    </div>
+
+<button class="open-btn" onclick="openSidebar()">☰ Menü</button>
+
+<div id="mySidebar" class="sidebar">
+  <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
+  <a href="#home">Home</a>
+  <a href="#services">Services</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<script>
+  function openSidebar() {
+    document.getElementById("mySidebar").style.width = "250px";
+  }
+
+  function closeSidebar() {
+    document.getElementById("mySidebar").style.width = "0";
+  }
+</script>
+
 </body>
 </html>
+
+
 <p><u><a target="_blank" style="color: #00ccff;"></p><h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1></a></u>
 <p>
 &emsp;Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
