@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ausklappbare Leiste</title>
   <style>
+
     body {
       font-family: Arial, sans-serif;
       margin: 0;
@@ -24,7 +25,7 @@
       padding: 10px 15px;
       text-decoration: none;
       font-size: 18px;
-      color: white;
+      color: rgb(0, 195, 255);
       display: block;
       transition: 0.3s;
     }
@@ -35,21 +36,28 @@
       font-size: 20px;
       cursor: pointer;
       background-color: #111;
-      color: white;
+      color: rgb(0, 195, 255);
       border: none;
       padding: 10px 15px;
       position: fixed;
-      top: 20px;
-      left: 20px;
+      top: 1px;
+      left: 1px;
+      background-color: rgba(51, 51, 51, 0.7);
     }
     .close-btn {
       position: absolute;
       top: 10px;
-      right: 25px;
+      left: 25px;
       font-size: 30px;
-      color: white;
+      color: rgb(0, 195, 255);
       cursor: pointer;
     }
+        .sidebar {
+  transition: width 0.8s ease-in-out;
+}
+.sidebar {
+  background-color: rgba(51, 51, 51, 0.9);
+}
   </style>
 </head>
 <body>
@@ -58,10 +66,11 @@
 
 <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
-  <a href="#home">Home</a>
-  <a href="#services">Services</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
+  <a href="#home">Allgemeines über Spiele</a>
+  <a href="#services">Unsere ausgewählten Top Spiele</a>
+  <a href="#about">Mo.Co</a>
+  <a href="#contact">Fortnite</a>
+    <a href="#contact">Brawl Stars</a>
 </div>
 
 <script>
@@ -78,12 +87,13 @@
 </html>
 
 
+<p>&nbsp;</p>
 <p><u><a target="_blank" style="color: #00ccff;"></p><h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1></a></u>
 <p>
-&emsp;Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
-Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC &emsp;oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
+Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
+Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
 
-Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und Insider-Wissen an die Hand, mit &emsp;denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache &emsp;Erklärungen: Wir machen’s dir leicht, besser zu werden.
+Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und Insider-Wissen an die Hand, mit denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache &emsp;Erklärungen: Wir machen’s dir leicht, besser zu werden.
 
 Zusätzlich halten wir dich immer auf dem Laufenden, was Updates, neue Inhalte oder spannende Entwicklungen in der Gaming-Welt angeht. So verpasst du garantiert nichts mehr. Und wer weiß – vielleicht findest du hier ja sogar dein nächstes Lieblingsspiel?
 
@@ -119,9 +129,9 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 
 
  
- <h2 id="zu-moco-">
-<p><u><a target="_blank" style="color: #00ccff;"></p>Zu Mo.CO</a></u></h2>
- </h2>
+ <h1 id="zu-moco-">
+<p><u><a target="_blank" style="color: #00ccff;"></p>Zu Mo.CO</a></u></h1>
+
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
  <p>In dem neuen MMO von Supercell kann man in eine offene Welt eintauchen, in der man Monster jagen kann. Ebenfalls gibt es die Möglichkeit, sein "Deck" individuell anzupassen. Das heißt, dass man seine Waffe, seine Gadgets, seine Passivfähigkeiten und seine Ringe aus einer großen Auswahl selbst zusammenstellen kann.</p>
  <p>Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
@@ -204,12 +214,7 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 
 
 
-
-
-
- <h2 id="zu Brawl Stars-">
-Zu Brawl Stars
- </h2>
+ <h1 id="zu Brawl Stars-">Zu Brawl Stars</h1>
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
  <p></p>
  <p></p>
@@ -235,7 +240,6 @@ Zu Brawl Stars
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Fortnite – Battle Royale</title>
     <style>
         body {
             font-family: Arial, sans-serif;
