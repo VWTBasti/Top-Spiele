@@ -193,10 +193,8 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
   <p align="center"><h1> C Tier <h1><p>
   <img src="https://images.mobi.gg/uploads/2025/03/super-loud-whistle-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/splash-heal-moco-gear.webp" width="120" height="160">
-
-<p>Unserer Meinung nach, sind iPsycooTV und </p>
-
-Youtube Kanal von iPsycooTV: youtube.com/channel/UCy3fnAdQPRKXB8yl96Q-TyQ
+</h1>
+<h2><p>Unserer Meinung nach, sind <a href="https://youtube.com/@ipsycootv?si=oCEVTu6Xup3C4RbQ">iPsycooTV</a> und <a href="https://youtube.com/@itzugaming-moco?si=7LS5WUOBGZT8hfCH">iTzu Gaming - Moco</a> die besten Mo.Co Youtuber.</h2>
 
  <h1 id="zu Fortnite-">
 Zu Fortnite
@@ -289,4 +287,3 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
     </style>
 </head>
 <body>
-
