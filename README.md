@@ -66,11 +66,11 @@
 
 <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
-  <a href="#home">Allgemeines über Spiele</a>
-  <a href="#services">Unsere ausgewählten Top Spiele</a>
-  <a href="#about">Mo.Co</a>
-  <a href="#contact">Fortnite</a>
-    <a href="#contact">Brawl Stars</a>
+  <a href="#Top Spiele+Tipps-">Allgemeines über Spiele</a>
+  <a href="#Das sind unsere Top Spiele-">Unsere ausgewählten Top Spiele</a>
+  <a href="#zu-moco-">Mo.Co</a>
+  <a href="#zu Fortnite-">Fortnite</a>
+    <a href="#zu Brawl Stars-">Brawl Stars</a>
 </div>
 
 <script>
@@ -88,7 +88,8 @@
 
 
 <p>&nbsp;</p>
-<p><u><a target="_blank" style="color: #00ccff;"></p><h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps</h1></a></u>
+<h1 id="Top Spiele+Tipps-">
+<p><u><a target="_blank" style="color: #00ccff;"></p><h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps + empfehlenswerte Youtuber</h1></a></u>
 <p>
 Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
 Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
@@ -100,6 +101,7 @@ Zusätzlich halten wir dich immer auf dem Laufenden, was Updates, neue Inhalte o
 Also klick dich durch, schnapp dir die besten Tipps und hab einfach Spaß.
 Let’s go – viel Erfolg und natürlich: viel Spaß beim Zocken!
 </p>
+<h1 id="Das sind unsere Top Spiele-">
 <p><u><a target="_blank" style="color: #00ccff;"></p><h2>Das sind unsere Top Spiele:</h2></a></u>
 <p> 
 <h3>-Mo.Co</h3>
@@ -192,7 +194,9 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
   <img src="https://images.mobi.gg/uploads/2025/03/super-loud-whistle-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/splash-heal-moco-gear.webp" width="120" height="160">
 
+<p>Unserer Meinung nach, sind iPsycooTV und </p>
 
+Youtube Kanal von iPsycooTV: youtube.com/channel/UCy3fnAdQPRKXB8yl96Q-TyQ
 
  <h1 id="zu Fortnite-">
 Zu Fortnite
@@ -285,3 +289,4 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
     </style>
 </head>
 <body>
+
