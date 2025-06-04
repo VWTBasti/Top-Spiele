@@ -211,7 +211,8 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 <p><b>Reload:</b>Der Reload-Modus in Fortnite ist ein schneller Team-Modus, bei dem ausgeschiedene Spieler nach einer gewissen Zeit automatisch wiederbelebt werden, solange mindestens ein Teammitglied noch am Leben ist. Ziel ist es, das letzte überlebende Team zu sein. Die Map ist kleiner als im normalen Battle Royale, was für intensivere und häufigere Gefechte sorgt. Durch das automatische Respawn-System bleibt das Spiel dynamisch und actionreich, da Spieler öfter Chancen bekommen, zurückzukehren und weiterzukämpfen.
 <p><b>Creative Maps:</b> Creative Maps in Fortnite sind von Spielern erstellte, eigene Spielwelten und Levels, die man im Creative Mode bauen kann. Damit kannst du deine eigenen Spiele, Abenteuer oder Wettbewerbe gestalten und mit anderen teilen. Näturlich kann man auch die Creativ Maps veröffentlichen, damit andere die Map spielen können. Als Map creator kann man auch Geld dazu verdienen, darauf ankommend wie viele Leute die Map spielen. Spieler können die Maps Privat also alleine oder mit seinen Freunden spielen. Man kann das ganze auch im öffentlichen Modus spielen, also mit online Spielern, die man nicht kennt. Es kommt darauf an wie viele Spieler der map Creator zulässt.
 
-<p><b>tipps für Fortnite:</b> 1.Baue schnell und effizient: Übe, Wände, Rampen und Böden schnell zu bauen. Das kann dir in Kämpfen Schutz bieten und dir taktische Vorteile verschaffen.
+<p><b>Tipps für Fortnite:</b> 
+1.Baue schnell und effizient: Übe, Wände, Rampen und Böden schnell zu bauen. Das kann dir in Kämpfen Schutz bieten und dir taktische Vorteile verschaffen.
 
 2.Sammle immer Materialien: Holz, Stein und Metall sind essenziell. Geh nicht in den Kampf, ohne genügend Baumaterial zu haben.
 
