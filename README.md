@@ -66,11 +66,13 @@
 
 <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
-  <a href="#Top Spiele+Tipps-">Allgemeines über Spiele</a>
-  <a href="#Das sind unsere Top Spiele-">Unsere ausgewählten Top Spiele</a>
-  <a href="#zu-moco-">Mo.Co</a>
-  <a href="#zu Fortnite-">Fortnite</a>
-    <a href="#zu Brawl Stars-">Brawl Stars</a>
+  <h1><a href="#Top Spiele+Tipps-">Allgemeines über Spiele</a></h1>
+  <h1><a href="#Das sind unsere Top Spiele-">Unsere ausgewählten Top Spiele</a></h1>
+  <h1><a href="#zu-moco-">Mo.Co</a></h1>
+  <a href="#zu Waffen Tier List-">Waffen Tier List</a>
+  <a href="#zu Gadget Tier List-">Gadget Tier List</a>
+  <h1><a href="#zu Fortnite-">Fortnite</a></h1>
+  <h1><a href="#zu Brawl Stars-">Brawl Stars</a></h1>
 </div>
 
 <script>
@@ -131,7 +133,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 
 
  
-<h1 id="zu-moco-">
+ <h1 id="zu-moco-">
 <p><u><a target="_blank" style="color: #00ccff;"></p>Zu Mo.CO</a></u></h1>
 
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
@@ -145,8 +147,10 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß.</p>
 &nbsp; 
 <p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists basieren auf unserer eigenen Meinung und ein paar Inspirationen!</a></h2>
-
+&nbsp;
+<p id="zu Waffen Tier List-"></p>
 <p><a target="_blank" style="color: #00ccff;"></p><h1>Waffen Tier List</h1></a>
+&nbsp;
  <p align="center"><a target="_blank" style="color: #00ccff;"><h1> S Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/spinsickle-moco-gear.webp" width="120 "height="160">
@@ -156,24 +160,25 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
   <img src="https://images.mobi.gg/uploads/2025/03/wolf-stick-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/buzz-kill-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/techno-fiest-moco-gear.webp" width="120 "height="160">
-<p align="center"><h1> B Tier <h1><p>
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> B Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/monster-slugger-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/toothpick-shield-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/cpu-bomb-moco-gear.webp" width="120" height="160"> 
-<p align="center"><h1> C Tier <h1><p>
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> C Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/portable-portal-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/medecine-bomb-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
 
-
- <h1>Gadget Tier List</h1>
- <p align="center"><h1> S Tier <h1><p>
+<p id="zu Gadget Tier List-"></p>
+<p><a target="_blank" style="color: #00ccff;"></p><h1>Gadget Tier List</h1></a>
+&nbsp;
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> S Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/really-cool-sticker-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/pepper-spray-moco-gear.webp" width="120 "height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/vitamin-shot-moco-gear.webp" width="120 "height="160">
  
 
-<p align="center"><h1> A Tier <h1><p>
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> A Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/snow-globe-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/multi-zapper-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/smart-fireworkds-moco-gear.webp" width="120 "height="160">
@@ -182,18 +187,21 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
    <img src="https://dotgg.gg/moco/wp-content/uploads/sites/41/2025/03/UI_Gadgets_Shelldon-284x300.png" width="120" height="160">
 
  
- <p align="center"><h1> B Tier <h1><p>
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> B Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/revitalizing-mist-moco-gear.webp" width="120" height="160">
   <img src="https://static.wikia.nocookie.net/mocosupercell/images/f/ff/UI_Gadgets_Spicy_Dagger.png/revision/latest?cb=20250319170425" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/boombox-moco-gear.webp" width="120" height="160"> 
-    <img src="https://moinfo.co/wp-content/uploads/2025/03/UI_Gadgets_Explosive_6_Pack.png" width="120" height="160"> 
+  <img src="https://moinfo.co/wp-content/uploads/2025/03/UI_Gadgets_Explosive_6_Pack.png" width="120" height="160"> 
 
 
   
-  <p align="center"><h1> C Tier <h1><p>
+ <p align="center"><a target="_blank" style="color: #00ccff;"><h1> C Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/super-loud-whistle-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/splash-heal-moco-gear.webp" width="120" height="160">
 </h1>
+&nbsp; 
+<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists basieren auf unserer eigenen Meinung und ein paar Inspirationen!</a></h2>
+&nbsp;
 <h2><p>Unserer Meinung nach, sind <a href="https://youtube.com/@ipsycootv?si=oCEVTu6Xup3C4RbQ">iPsycooTV</a> und <a href="https://youtube.com/@itzugaming-moco?si=7LS5WUOBGZT8hfCH">iTzu Gaming - Moco</a> die besten Mo.Co Youtuber.</h2>
 
  <h1 id="zu Fortnite-">
@@ -211,26 +219,7 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 <p><b>Reload:</b>Der Reload-Modus in Fortnite ist ein schneller Team-Modus, bei dem ausgeschiedene Spieler nach einer gewissen Zeit automatisch wiederbelebt werden, solange mindestens ein Teammitglied noch am Leben ist. Ziel ist es, das letzte überlebende Team zu sein. Die Map ist kleiner als im normalen Battle Royale, was für intensivere und häufigere Gefechte sorgt. Durch das automatische Respawn-System bleibt das Spiel dynamisch und actionreich, da Spieler öfter Chancen bekommen, zurückzukehren und weiterzukämpfen.
 <p><b>Creative Maps:</b> Creative Maps in Fortnite sind von Spielern erstellte, eigene Spielwelten und Levels, die man im Creative Mode bauen kann. Damit kannst du deine eigenen Spiele, Abenteuer oder Wettbewerbe gestalten und mit anderen teilen. Näturlich kann man auch die Creativ Maps veröffentlichen, damit andere die Map spielen können. Als Map creator kann man auch Geld dazu verdienen, darauf ankommend wie viele Leute die Map spielen. Spieler können die Maps Privat also alleine oder mit seinen Freunden spielen. Man kann das ganze auch im öffentlichen Modus spielen, also mit online Spielern, die man nicht kennt. Es kommt darauf an wie viele Spieler der map Creator zulässt.
 
-<p><b>Tipps für Fortnite:
-</b>1.Baue schnell und effizient: Übe, Wände, Rampen und Böden schnell zu bauen. Das kann dir in Kämpfen Schutz bieten und dir taktische Vorteile verschaffen.
 
-2.Sammle immer Materialien: Holz, Stein und Metall sind essenziell. Geh nicht in den Kampf, ohne genügend Baumaterial zu haben.
-
-3.Achte auf die Kreis-Position: Halte dich immer im sicheren Bereich des Sturms auf, damit du nicht unnötig Schaden bekommst oder Zeit verlierst.
-
-4.Wähle deine Kämpfe: Nicht jeder Gegner muss bekämpft werden. Manchmal ist es besser, sich zurückzuziehen und auf eine bessere Gelegenheit zu warten.
-
-5.Nutze Kopfhörer: So kannst du besser hören, wo Gegner sind, zum Beispiel durch Schritte oder Schüsse.
-
-6.Verbessere deine Zielgenauigkeit: Übe regelmäßig im Kreativmodus, um dein Zielen und Schießen zu verbessern.
-
-7.Behalte deine Gesundheit im Auge: Trinke Schilde und heile dich, wenn du sicher bist. Niemals unvorbereitet in den Kampf gehen.
-
-8.Lerne die Waffen kennen: Jede Waffe hat Vor- und Nachteile. Finde heraus, welche dir am besten liegen und passe deine Strategie entsprechend an.
-
-9.Bewege dich taktisch: Nutze Deckungen, bleib in Bewegung und vermeide es, offen auf dem Feld zu stehen.
-
-10Bleib ruhig und konzentriert: Panik führt zu Fehlern. Versuche ruhig zu bleiben, auch wenn es spannend wird.
 
 
 
@@ -252,12 +241,62 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 
 <img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746520214.png" width="1000" height="950">
 <img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars-all-wasabi-powers-18133628-1746612097.png" width="1000" height="1200">
-<img src="https://github.com/user-attachments/assets/f8630ca4-0ebf-4acd-946a-d34dc46ef88d" width="1000" height="5000">
+
+
 
 
 
 <!DOCTYPE html>
 <html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1e1e1e;
+            padding: 20px;
+            text-align: left;
+        }
+        nav {
+            background-color: #2c2c2c;
+            padding: 10px;
+            text-align: left;
+        }
+        nav a {
+            color: #00ccff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #1e1e1e;
+            color: #ccc;
+            text-align: left;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+
 <head>
   <meta charset="UTF-8">
   <title>Bild öffnen per Klick</title>
@@ -266,17 +305,17 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
       background-color: #007BFF;
       color: white;
       padding: 20px;
-      text-align: center;
+      text-align: left;
       cursor: pointer;
-      width: 200px;
-      margin: 20px auto;
+      width: 220px;
+      margin: 0px; 
       border-radius: 8px;
       font-weight: bold;
     }
 
     #bild {
       display: none;
-      text-align: center;
+      text-align: left;
       margin-top: 20px;
     }
 
@@ -290,10 +329,10 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 </head>
 <body>
 
-<div id="balken">📷 Bild anzeigen</div>
+<div id="balken">👉Skin Tier List anzeigen👈</div>
 
 <div id="bild">
-  <img src="https://via.placeholder.com/400x300" alt="Beispielbild">
+  <img src="https://github.com/user-attachments/assets/f8630ca4-0ebf-4acd-946a-d34dc46ef88d" alt="Beispielbild">
 </div>
 
 <script>
