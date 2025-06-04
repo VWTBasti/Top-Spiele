@@ -211,7 +211,25 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 <p><b>Reload:</b>Der Reload-Modus in Fortnite ist ein schneller Team-Modus, bei dem ausgeschiedene Spieler nach einer gewissen Zeit automatisch wiederbelebt werden, solange mindestens ein Teammitglied noch am Leben ist. Ziel ist es, das letzte überlebende Team zu sein. Die Map ist kleiner als im normalen Battle Royale, was für intensivere und häufigere Gefechte sorgt. Durch das automatische Respawn-System bleibt das Spiel dynamisch und actionreich, da Spieler öfter Chancen bekommen, zurückzukehren und weiterzukämpfen.
 <p><b>Creative Maps:</b> Creative Maps in Fortnite sind von Spielern erstellte, eigene Spielwelten und Levels, die man im Creative Mode bauen kann. Damit kannst du deine eigenen Spiele, Abenteuer oder Wettbewerbe gestalten und mit anderen teilen. Näturlich kann man auch die Creativ Maps veröffentlichen, damit andere die Map spielen können. Als Map creator kann man auch Geld dazu verdienen, darauf ankommend wie viele Leute die Map spielen. Spieler können die Maps Privat also alleine oder mit seinen Freunden spielen. Man kann das ganze auch im öffentlichen Modus spielen, also mit online Spielern, die man nicht kennt. Es kommt darauf an wie viele Spieler der map Creator zulässt.
 
+<p><b>tipps für Fortnite:</b> 1.Baue schnell und effizient: Übe, Wände, Rampen und Böden schnell zu bauen. Das kann dir in Kämpfen Schutz bieten und dir taktische Vorteile verschaffen.
 
+2.Sammle immer Materialien: Holz, Stein und Metall sind essenziell. Geh nicht in den Kampf, ohne genügend Baumaterial zu haben.
+
+3.Achte auf die Kreis-Position: Halte dich immer im sicheren Bereich des Sturms auf, damit du nicht unnötig Schaden bekommst oder Zeit verlierst.
+
+4.Wähle deine Kämpfe: Nicht jeder Gegner muss bekämpft werden. Manchmal ist es besser, sich zurückzuziehen und auf eine bessere Gelegenheit zu warten.
+
+5.Nutze Kopfhörer: So kannst du besser hören, wo Gegner sind, zum Beispiel durch Schritte oder Schüsse.
+
+6.Verbessere deine Zielgenauigkeit: Übe regelmäßig im Kreativmodus, um dein Zielen und Schießen zu verbessern.
+
+7.Behalte deine Gesundheit im Auge: Trinke Schilde und heile dich, wenn du sicher bist. Niemals unvorbereitet in den Kampf gehen.
+
+8.Lerne die Waffen kennen: Jede Waffe hat Vor- und Nachteile. Finde heraus, welche dir am besten liegen und passe deine Strategie entsprechend an.
+
+9.Bewege dich taktisch: Nutze Deckungen, bleib in Bewegung und vermeide es, offen auf dem Feld zu stehen.
+
+10Bleib ruhig und konzentriert: Panik führt zu Fehlern. Versuche ruhig zu bleiben, auch wenn es spannend wird.
 
 
 
