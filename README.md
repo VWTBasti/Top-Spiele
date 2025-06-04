@@ -237,60 +237,8 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 
 
 
-
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #121212;
-            color: #ffffff;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #1e1e1e;
-            padding: 20px;
-            text-align: center;
-        }
-        nav {
-            background-color: #2c2c2c;
-            padding: 10px;
-            text-align: center;
-        }
-        nav a {
-            color: #00ccff;
-            text-decoration: none;
-            margin: 0 15px;
-            font-weight: bold;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-        main {
-            padding: 20px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
-        }
-        footer {
-            background-color: #1e1e1e;
-            color: #ccc;
-            text-align: center;
-            padding: 10px;
-            margin-top: 40px;
-        }
-    </style>
-</head>
-<body>
-
-
-
-
 <head>
   <meta charset="UTF-8">
   <title>Bild öffnen per Klick</title>
@@ -314,23 +262,33 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
     }
 
     #bild img {
-      max-width: 100%;
+      max-width: 90%;
       height: auto;
+      border: 2px solid #ccc;
+      border-radius: 10px;
     }
   </style>
 </head>
 <body>
 
-<div id="balken">Bild anzeigen</div>
+<div id="balken">📷 Bild anzeigen</div>
 
 <div id="bild">
   <img src="https://via.placeholder.com/400x300" alt="Beispielbild">
 </div>
 
 <script>
-  document.getElementById("balken").addEventListener("click", function() {
-    const bildDiv = document.getElementById("bild");
-    bildDiv.style.display = bildDiv.style.display === "none" ? "block" : "none";
+  document.addEventListener("DOMContentLoaded", function() {
+    const balken = document.getElementById("balken");
+    const bild = document.getElementById("bild");
+
+    balken.addEventListener("click", function() {
+      if (bild.style.display === "none" || bild.style.display === "") {
+        bild.style.display = "block";
+      } else {
+        bild.style.display = "none";
+      }
+    });
   });
 </script>
 
