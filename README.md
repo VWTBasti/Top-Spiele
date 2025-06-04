@@ -131,7 +131,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledi
 
 
  
- <h1 id="zu-moco-">
+<h1 id="zu-moco-">
 <p><u><a target="_blank" style="color: #00ccff;"></p>Zu Mo.CO</a></u></h1>
 
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
@@ -287,3 +287,52 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
     </style>
 </head>
 <body>
+
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bild öffnen per Klick</title>
+  <style>
+    #balken {
+      background-color: #007BFF;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      cursor: pointer;
+      width: 200px;
+      margin: 20px auto;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+
+    #bild {
+      display: none;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    #bild img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+<div id="balken">Bild anzeigen</div>
+
+<div id="bild">
+  <img src="https://via.placeholder.com/400x300" alt="Beispielbild">
+</div>
+
+<script>
+  document.getElementById("balken").addEventListener("click", function() {
+    const bildDiv = document.getElementById("bild");
+    bildDiv.style.display = bildDiv.style.display === "none" ? "block" : "none";
+  });
+</script>
+
+</body>
+</html>
