@@ -90,8 +90,8 @@
 
 
 <p>&nbsp;</p>
-<h1 id="1️⃣Top Spiele+Tipps-">
-<p><u><a target="_blank" style="color: #00ccff;"></p><h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps + empfehlenswerte Youtuber</h1></a></u>
+<h1 id="Top Spiele+Tipps-">
+<p><u><a target="_blank" style="color: #00ccff;"></p><h1>1️⃣Unsere top Spiele für Jugendliche + dazugehörige Tipps + empfehlenswerte Youtuber</h1></a></u>
 <p>
 👋Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
 Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
@@ -369,51 +369,6 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
     });
   });
 </script>
-
-</body>
-</html>
-
-
-
-/dein-projekt
-│
-├── index.html
-├── seite2.html
-└── kontakt.html
-
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <title>Startseite</title>
-</head>
-<body>
-
-  <h1>Willkommen auf der Startseite!</h1>
-
-  <nav>
-    <a href="seite2.html">➡ Zur zweiten Seite</a><br>
-    <a href="kontakt.html">📧 Zum Kontakt</a>
-  </nav>
-
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <title>Zweite Seite</title>
-</head>
-<body>
-
-  <h1>Das ist die zweite Seite</h1>
-
-  <nav>
-    <a href="index.html">🔙 Zurück zur Startseite</a><br>
-    <a href="kontakt.html">📧 Zum Kontakt</a>
-  </nav>
 
 </body>
 </html>
