@@ -66,13 +66,13 @@
 
 <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="close-btn" onclick="closeSidebar()">×</a>
-  <h1><a href="#Top Spiele+Tipps-">Allgemeines über Spiele</a></h1>
-  <h1><a href="#Das sind unsere Top Spiele-">Unsere ausgewählten Top Spiele</a></h1>
-  <h1><a href="#zu-moco-">Mo.Co</a></h1>
-  <a href="#zu Waffen Tier List-">Waffen Tier List</a>
-  <a href="#zu Gadget Tier List-">Gadget Tier List</a>
-  <h1><a href="#zu Fortnite-">Fortnite</a></h1>
-  <h1><a href="#zu Brawl Stars-">Brawl Stars</a></h1>
+  <h1><a href="#Top Spiele+Tipps-">💻Allgemeines über Spiele</a></h1>
+  <h1><a href="#Das sind unsere Top Spiele-">1️⃣Unsere ausgewählten Top Spiele</a></h1>
+  <h1><a href="#zu-moco-">🐉Mo.Co</a></h1>
+  <a href="#zu Waffen Tier List-">-🔫Waffen Tier List</a>
+  <a href="#zu Gadget Tier List-">🛠️Gadget Tier List</a>
+  <h1><a href="#zu Fortnite-">🧱Fortnite</a></h1>
+  <h1><a href="#zu Brawl Stars-">🦹‍♂️Brawl Stars</a></h1>
 </div>
 
 <script>
@@ -90,15 +90,15 @@
 
 
 <p>&nbsp;</p>
-<h1 id="Top Spiele+Tipps-">
+<h1 id="1️⃣Top Spiele+Tipps-">
 <p><u><a target="_blank" style="color: #00ccff;"></p><h1>Unsere top Spiele für Jugendliche + dazugehörige Tipps + empfehlenswerte Youtuber</h1></a></u>
 <p>
-Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
+👋Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
 Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
 
-Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und Insider-Wissen an die Hand, mit denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache &emsp;Erklärungen: Wir machen’s dir leicht, besser zu werden.
+Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und 🔎Insider-Wissen an die Hand, mit denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache &emsp;Erklärungen: Wir machen’s dir leicht, besser zu werden.
 
-Zusätzlich halten wir dich immer auf dem Laufenden, was Updates, neue Inhalte oder spannende Entwicklungen in der Gaming-Welt angeht. So verpasst du garantiert nichts mehr. Und wer weiß – vielleicht findest du hier ja sogar dein nächstes Lieblingsspiel?
+Zusätzlich halten wir dich immer auf dem 🏃‍♂️‍➡️Laufenden, was Updates, neue Inhalte oder spannende Entwicklungen in der Gaming-Welt angeht. So verpasst du garantiert nichts mehr. Und wer weiß – vielleicht findest du hier ja sogar dein nächstes Lieblingsspiel?
 
 Also klick dich durch, schnapp dir die besten Tipps und hab einfach Spaß.
 Let’s go – viel Erfolg und natürlich: viel Spaß beim Zocken!
@@ -110,7 +110,7 @@ Let’s go – viel Erfolg und natürlich: viel Spaß beim Zocken!
 <img src="https://images.mobi.gg/uploads/2025/03/10543/conversions/mo-co-icon-thumb.webp" width="120" height="120"></a> <br>
  <p>
 <p><u><a target="_blank" style="color: #00ccff;"></p><h3>Mo.Co (Supercell, Android/IOS):</h3></a></u>
-Mo.Co ist ein neues MMO von Supercell, in dem man Monster jagt und Quests erledigen muss, um voran zu kommen. Es gibt auch Welten im Spiel, die man entdecken kann. Diese Welten sind levelartig aufgebaut. Ebenfalls gibt es Bosse, die man besiegen kann.
+Mo.Co ist ein neues MMO von Supercell, in dem man 🧌Monster jagt und Quests erledigen muss, um voran zu kommen. Es gibt auch Welten im Spiel, die man entdecken kann. Diese Welten sind levelartig aufgebaut. Ebenfalls gibt es Bosse, die man besiegen kann.
  
 </p>
 <p>
@@ -249,8 +249,8 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
  <p></p>
  <p></p>
 <h3>Top Tipps zu Brawl Stars</h3>
- <p>1. Um mehr Leben zu haben und mehr Schaden zu machen ist es wichtig, die Brawler hochzuleveln.</p>
- <p>2. Um am Ende der Runde zu gewinnen sollten die richtigen Gadgets und Starpowers genutzt werden. (Falls man es nicht selber weiß, kann man im Internet recherchieren.)</p>
+ <p>1. Um mehr 💚Leben zu haben und mehr Schaden zu machen ist es wichtig, die Brawler hochzuleveln.</p>
+ <p>2. Um am Ende der Runde zu gewinnen sollten die richtigen Gadgets und Starpowers genutzt werden. (Falls man es nicht selber weiß, kann man es im Internet recherchieren.)</p>
  <p>3. ❗❗❗Auto Aim ist nicht immer die beste Variante❗❗❗</p>
  <p>4. Taktisches Ausweichen ist wichtig!</p>
  <p>5. Die Steuerelemente können individuell angepasst werden. </p> 
