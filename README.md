@@ -372,3 +372,48 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 
 </body>
 </html>
+
+
+
+/dein-projekt
+│
+├── index.html
+├── seite2.html
+└── kontakt.html
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Startseite</title>
+</head>
+<body>
+
+  <h1>Willkommen auf der Startseite!</h1>
+
+  <nav>
+    <a href="seite2.html">➡ Zur zweiten Seite</a><br>
+    <a href="kontakt.html">📧 Zum Kontakt</a>
+  </nav>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Zweite Seite</title>
+</head>
+<body>
+
+  <h1>Das ist die zweite Seite</h1>
+
+  <nav>
+    <a href="index.html">🔙 Zurück zur Startseite</a><br>
+    <a href="kontakt.html">📧 Zum Kontakt</a>
+  </nav>
+
+</body>
+</html>
