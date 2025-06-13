@@ -136,6 +136,7 @@ Fortnite ist ein Online Battle Royale Game, allerdings kann man auch in so genna
 Supercell ist ein weltweit bekanntes Mobile-Gaming-Unternehmen mit Sitz in Helsinki, Finnland. Gegründet wurde es im Jahr 2010 von Ilkka Paananen und seinem Team mit dem Ziel, Spiele zu entwickeln. Supercell ist eines der umsatzstärksten Mobile-Gaming-Unternehmen der Welt. Supercell hat einige sehr bekannte Spiele entwickelt, darunter Brawl Stars, Squad Busters, Mo.Co, Hay Day, Clash Royale, Boom Beach und Clash of Clans. Supercell investiert regelmäßig in neue Spiele, auch wenn viele Projekte nie das Licht der Öffentlichkeit erblicken. Das Unternehmen ist bekannt dafür, nur die vielversprechendsten Ideen weiterzuentwickeln. Es beteiligt sich zudem an Start-ups in der Spielebranche und fördert damit Innovationen über die eigene Firma hinaus.
 
 <h2>Epic Games (Cary, North Carolina, USA):</h2>
+Epic Games ist eine Firma, die mit Hilfe der Grafik Engine: Unreal Engine Computer Spiele kreiert. Epic Games wurde ursprünglich 1991 unter dem Namen Epic MegaGames Tim Sweeney in Rockville, Maryland gegründet. Im selben Jahr wurde auch schon das erste Spiel, nämlich ZZT, veröffentlicht. 1998 wurde der erste FPS (First-Person-Shooter) veröffentlicht. Dieser FPS hieß Unreal. Darauf folgend wurde die Unreal-Serie kreiert. In 1999 wurde Epic MegaGames zu Epic Games umbenannt und der Hauptsitz wurde nach Raleigh in North Carolina verlegt. 2017 veröffentlichte Epic Games das Spiel Fortnite: Battle Royale. Dieses Spiel war der Sprung in die Epic Games Entwicklung und wurde sehr schnell beliebt. Mittlerweile ist Epic Games sehr bekannt und sehr beliebt.
 
 
 
@@ -211,7 +212,7 @@ Supercell ist ein weltweit bekanntes Mobile-Gaming-Unternehmen mit Sitz in Helsi
 &nbsp; 
 <p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
 &nbsp;
-<h2><p>Unserer Meinung nach, sind <a href="https://youtube.com/@ipsycootv?si=oCEVTu6Xup3C4RbQ">iPsycooTV</a> und <a href="https://youtube.com/@itzugaming-moco?si=7LS5WUOBGZT8hfCH">iTzu Gaming - Moco</a> die besten Mo.Co YouTuber.</h2>
+<h2><p>Unserer Meinung nach, sind <a href="https://youtube.com/@ipsycootv?si=oCEVTu6Xup3C4RbQ">iPsycooTV</a> und <a href="https://youtube.com/@itzugaming-moco?si=7LS5WUOBGZT8hfCH">iTzu Gaming - Moco</a> die besten deutschen Mo.Co YouTuber.</h2>
 
  <h1 id="zu Fortnite-">
 Zu Fortnite
@@ -250,6 +251,8 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 10.Bleib ruhig und konzentriert: Panik führt zu Fehlern. Versuche ruhig zu bleiben, auch wenn es spannend wird.
 
 
+&nbsp;
+<h2><p>Unserer Meinung nach, sind <a href="https://www.youtube.com/@AlviVB">Alvi</a> und <a href="https://www.youtube.com/@rezonay_">rezon ay</a> die besten deutschen Fortnite YouTuber.</h2>
 
 
  <h1 id="zu Brawl Stars-">Zu Brawl Stars</h1>
@@ -265,10 +268,77 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 
 
 
- 
 
-<img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746520214.png" width="1000" height="950">
-<img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars-all-wasabi-powers-18133628-1746612097.png" width="1000" height="1200">
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Mehrere Bilder ein- und ausklappen</title>
+  <style>
+    .balken {
+      background-color: #007BFF;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      cursor: pointer;
+      width: 295px;
+      margin: 0px;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+
+    .bild {
+      display: none;
+      text-align: left;
+      margin: 20px;
+    }
+
+    .bild img {
+      max-width: 90%;
+      height: auto;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Erster Balken + Bild -->
+<div class="balken" onclick="toggleBild('bild1')">👉Brawler Tier List anzeigen👈</div>
+<div class="bild" id="bild1">
+  <img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars---brawlers-v2-jule-2022-470498-1746520214.png" alt="Bild 1">
+</div>
+
+<!-- Zweiter Balken + Bild -->
+<div class="balken" onclick="toggleBild('bild2')">👉Wasabi Power Tier List anzeigen👈</div>
+<div class="bild" id="bild2">
+  <img src="https://tiermaker.com/images/media/tierlists-2024/18170957/brawl-stars-all-wasabi-powers-18133628-1746612097.png" alt="Bild 2">
+</div>
+
+<!-- Dritter Balken + Bild -->
+<div class="balken" onclick="toggleBild('bild3')">👉Skin Tier List anzeigen👈</div>
+<div class="bild" id="bild3">
+  <img src="https://github.com/user-attachments/assets/f8630ca4-0ebf-4acd-946a-d34dc46ef88d" alt="Bild 3">
+</div>
+
+<script>
+  function toggleBild(id) {
+    const bild = document.getElementById(id);
+    if (bild.style.display === "none" || bild.style.display === "") {
+      bild.style.display = "block";
+    } else {
+      bild.style.display = "none";
+    }
+  }
+</script>
+
+</body>
+</html>
+
+
+&nbsp;
+<h2><p>Unserer Meinung nach, sind <a href="https://www.youtube.com/@JoJonasBrawlStars">Jo Jonas - Brawl Stars
+</a> und <a href="https://www.youtube.com/@SnakeThugDE">Snake Thug Brawl - Stars (Deutsch)</a> die besten deutschenBrawl Stars YouTuber.</h2>
 
 
 
@@ -323,60 +393,3 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
     </style>
 </head>
 <body>
-
-
-<head>
-  <meta charset="UTF-8">
-  <title>Bild öffnen per Klick</title>
-  <style>
-    #balken {
-      background-color: #007BFF;
-      color: white;
-      padding: 20px;
-      text-align: left;
-      cursor: pointer;
-      width: 220px;
-      margin: 0px; 
-      border-radius: 8px;
-      font-weight: bold;
-    }
-
-    #bild {
-      display: none;
-      text-align: left;
-      margin-top: 20px;
-    }
-
-    #bild img {
-      max-width: 90%;
-      height: auto;
-      border: 2px solid #ccc;
-      border-radius: 10px;
-    }
-  </style>
-</head>
-<body>
-
-<div id="balken">👉Skin Tier List anzeigen👈</div>
-
-<div id="bild">
-  <img src="https://github.com/user-attachments/assets/f8630ca4-0ebf-4acd-946a-d34dc46ef88d" alt="Beispielbild">
-</div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const balken = document.getElementById("balken");
-    const bild = document.getElementById("bild");
-
-    balken.addEventListener("click", function() {
-      if (bild.style.display === "none" || bild.style.display === "") {
-        bild.style.display = "block";
-      } else {
-        bild.style.display = "none";
-      }
-    });
-  });
-</script>
-
-</body>
-</html>
