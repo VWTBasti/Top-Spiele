@@ -91,12 +91,12 @@
 
 <p>&nbsp;</p>
 <h1 id="Top Spiele+Tipps-">
-<p><u><a target="_blank" style="color: #00ccff;"></p><h1>1️⃣Unsere top Spiele für Jugendliche + dazugehörige Tipps + empfehlenswerte Youtuber</h1></a></u>
+<p><u><a target="_blank" style="color: #00ccff;"></p><h1>1️⃣Unsere top Spiele für Jugendliche + dazugehörige Tipps + empfehlenswerte YouTuber</h1></a></u>
 <p>
 👋Hey und herzlich willkommen auf unserer Website – cool, dass du hier gelandet bist!
 Wenn du genauso gerne zockst wie wir, bist du hier genau richtig. Bei uns dreht sich alles um die besten, spannendsten und aktuell beliebtesten Games – egal ob auf Konsole, PC oder Mobile. Wir zeigen dir, welche Spiele gerade richtig durchstarten, was sie so besonders macht und warum du sie auf keinen Fall verpassen solltest.
 
-Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und 🔎Insider-Wissen an die Hand, mit denen du dein Gameplay aufs nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache &emsp;Erklärungen: Wir machen’s dir leicht, besser zu werden.
+Aber das ist noch lange nicht alles: Wir geben dir jede Menge Tipps, Tricks und 🔎Insider-Wissen an die Hand, mit denen du dein Gameplay auf´s nächste Level bringst. Egal ob du ganz neu dabei bist oder schon stundenlange Erfahrung gesammelt hast – hier findest du nützliche Infos, die dir wirklich weiterhelfen. Ob versteckte Features, clevere Strategien oder einfache Erklärungen: Wir machen’s dir leicht, besser zu werden.
 
 Zusätzlich halten wir dich immer auf dem 🏃‍♂️‍➡️Laufenden, was Updates, neue Inhalte oder spannende Entwicklungen in der Gaming-Welt angeht. So verpasst du garantiert nichts mehr. Und wer weiß – vielleicht findest du hier ja sogar dein nächstes Lieblingsspiel?
 
@@ -120,16 +120,22 @@ Mo.Co ist ein neues MMO von Supercell, in dem man 🧌Monster jagt und Quests er
  <p>
 <p>
  <p><u><a target="_blank" style="color: #00ccff;"></p><h3>Fortnite (Epic Games, alle Plattformen)</h3></a></u>
- Fortnite ist ein Online Battle Royale Game, allerdings kann man auch in so gennanten Kreativ Maps (Spieler kreierte Landschaften und Situationen) üben um besser zu werden und im Battle Royale, die bis zu 99 Gegner besiegen um einen epischen Sieg zu holen.  
+Fortnite ist ein Online Battle Royale Game, allerdings kann man auch in so gennanten Kreativ Maps (spielerkreierte Landschaften und Situationen) üben, um besser zu werden. Im Battle Royale kannst du die bis zu 99 Gegner besiegen um einen epischen Sieg zu holen.  
 </p>
 <h3>-Brawl Stars</h3>
 </p>
 <img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110"></a> <br>
  </p>
-<p><u><a target="_blank" style="color: #00ccff;"></p><h3>Brawl Stras (Supercell, Android/IOS):</h3></a></u>
-<p>Brawl Stars ist ein Spiel, wo man Charaktere hat und diese in verschiedenen Modis spielen kann. Zum Beispiel gibt es Showdown. Es gibt den Solo, Duo und Trio modus und das Ziel ist der letzte überlebende zu sein. Dies kann man machen indem man andere Spieler eleminiert. Auf die Platzierung ankommend kriegt man Trophäen. Durch das Sammeln von Trophäen und anderen Gegenständen, kann man Belohnungen freischalten. Die Charaktere werden Brawler genannt. Mittlerweile gibt es 89 Brawler mit unterschiedlichen Fähigkeiten welche man ausrüsten und benutzen kann. Das gennerelle Ziel von Brawl stars ist es so viele Trophäen wie möglich zu sammeln.</p>
+<p><u><a target="_blank" style="color: #00ccff;"></p><h3>Brawl Stars (Supercell, Android/IOS):</h3></a></u>
+<p>Brawl Stars ist ein Spiel, in dem man Charaktere hat und mit diesen in verschiedenen Modi spielen kann. Ein Modus nennt sich beispielsweise Showdown. Showdown kann man als Solo, Duo oder Trio spielen. Dort ist das Ziel, der letzte Überlebende zu sein. Dies kann man erreichen, indem man andere Spieler eleminiert. In Abhängigkeit von der Platzierung erhält man Trophäen. Durch das Sammeln von Trophäen und anderen Gegenständen, kann man Belohnungen freischalten. Die Charaktere werden Brawler genannt. Mittlerweile gibt es 89 verschiedene Brawler, die man mit unterschiedlichen Fähigkeiten ausrüsten kann. Das gennerelle Ziel von Brawl Stars ist es, so viele Trophäen wie möglich zu sammeln.</p>
 
 
+<p><h1><u><a target="_blank" style="color: #00ccff;"></p>Die Firmen hinter den Spielen</a></u></h1>
+
+<h2>Supercell (finnisches Unternehmen):</h2>
+Supercell ist ein weltweit bekanntes Mobile-Gaming-Unternehmen mit Sitz in Helsinki, Finnland. Gegründet wurde es im Jahr 2010 von Ilkka Paananen und seinem Team mit dem Ziel, Spiele zu entwickeln. Supercell ist eines der umsatzstärksten Mobile-Gaming-Unternehmen der Welt. Supercell hat einige sehr bekannte Spiele entwickelt, darunter Brawl Stars, Squad Busters, Mo.Co, Hay Day, Clash Royale, Boom Beach und Clash of Clans. Supercell investiert regelmäßig in neue Spiele, auch wenn viele Projekte nie das Licht der Öffentlichkeit erblicken. Das Unternehmen ist bekannt dafür, nur die vielversprechendsten Ideen weiterzuentwickeln. Es beteiligt sich zudem an Start-ups in der Spielebranche und fördert damit Innovationen über die eigene Firma hinaus.
+
+<h2>Epic Games (Cary, North Carolina, USA):</h2>
 
 
 
@@ -147,7 +153,7 @@ Mo.Co ist ein neues MMO von Supercell, in dem man 🧌Monster jagt und Quests er
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
  <p>5. Mit anderen Spielern macht das Monster Jagen viel mehr Spaß.</p>
 &nbsp; 
-<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists basieren auf unserer eigenen Meinung und ein paar Inspirationen!</a></h2>
+<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
 &nbsp;
 <p id="zu Waffen Tier List-"></p>
 <p><a target="_blank" style="color: #00ccff;"></p><h1>Waffen Tier List</h1></a>
@@ -169,7 +175,9 @@ Mo.Co ist ein neues MMO von Supercell, in dem man 🧌Monster jagt und Quests er
   <img src="https://images.mobi.gg/uploads/2025/03/portable-portal-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/medecine-bomb-moco-gear.webp" width="120" height="160">
   <img src="https://images.mobi.gg/uploads/2025/03/staff-of-god-vibes-moco-gear.webp" width="120" height="160">
-
+&nbsp; 
+<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
+&nbsp;
 <p id="zu Gadget Tier List-"></p>
 <p><a target="_blank" style="color: #00ccff;"></p><h1>Gadget Tier List</h1></a>
 &nbsp;
@@ -201,15 +209,15 @@ Mo.Co ist ein neues MMO von Supercell, in dem man 🧌Monster jagt und Quests er
   <img src="https://images.mobi.gg/uploads/2025/03/splash-heal-moco-gear.webp" width="120" height="160">
 </h1>
 &nbsp; 
-<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists basieren auf unserer eigenen Meinung und ein paar Inspirationen!</a></h2>
+<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
 &nbsp;
-<h2><p>Unserer Meinung nach, sind <a href="https://youtube.com/@ipsycootv?si=oCEVTu6Xup3C4RbQ">iPsycooTV</a> und <a href="https://youtube.com/@itzugaming-moco?si=7LS5WUOBGZT8hfCH">iTzu Gaming - Moco</a> die besten Mo.Co Youtuber.</h2>
+<h2><p>Unserer Meinung nach, sind <a href="https://youtube.com/@ipsycootv?si=oCEVTu6Xup3C4RbQ">iPsycooTV</a> und <a href="https://youtube.com/@itzugaming-moco?si=7LS5WUOBGZT8hfCH">iTzu Gaming - Moco</a> die besten Mo.Co YouTuber.</h2>
 
  <h1 id="zu Fortnite-">
 Zu Fortnite
  </h1>
 <p>
-Fortnite ist ein sehr komplexes Spiel, was dazu führt, dass es keine konkreten generellen Tipps gibt. Wir werden auf unserer Website das ganze Spiel und den Battle Royale und Reload Modus besprechen. Wir werden auch ein paar hilfreiche kreativ Maps teilen.
+Fortnite ist ein sehr komplexes Spiel, was dazu führt, dass es keine konkreten generellen Tipps gibt. Wir werden auf unserer Website das ganze Spiel und den Battle Royale und Reload Modus erklären. Wir werden auch ein paar hilfreiche kreativ Maps teilen.
 <p>
 <h3>Für Anfänger</h3>
 <h4>Infos:</h4><p>
