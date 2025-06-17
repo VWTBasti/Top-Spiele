@@ -391,5 +391,8 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
             margin-top: 40px;
         }
     </style>
+
+
+  https://chatgpt.com/share/68512988-62fc-8010-b17f-49ecb1b6a177
 </head>
 <body>
