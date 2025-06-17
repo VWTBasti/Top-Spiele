@@ -127,7 +127,7 @@ Fortnite ist ein Online Battle Royale Game, allerdings kann man auch in so genna
 <img src="https://cdn.vox-cdn.com/thumbor/sf1QuSLAx7-KHgBFaJYrr6k2FiM=/0x0:1827x844/3570x2008/filters:focal(768x276:1060x568)/cdn.vox-cdn.com/uploads/chorus_image/image/62703886/article_image_brawlstars_1.0.jpg" width="180" height="110"></a> <br>
  </p>
 <p><u><a target="_blank" style="color: #00ccff;"></p><h3>Brawl Stars (Supercell, Android/IOS):</h3></a></u>
-<p>Brawl Stars ist ein Spiel, in dem man Charaktere hat und mit diesen in verschiedenen Modi spielen kann. Ein Modus nennt sich beispielsweise Showdown. Showdown kann man als Solo, Duo oder Trio spielen. Dort ist das Ziel, der letzte Überlebende zu sein. Dies kann man erreichen, indem man andere Spieler eleminiert. In Abhängigkeit von der Platzierung erhält man Trophäen. Durch das Sammeln von Trophäen und anderen Gegenständen, kann man Belohnungen freischalten. Die Charaktere werden Brawler genannt. Mittlerweile gibt es 89 verschiedene Brawler, die man mit unterschiedlichen Fähigkeiten ausrüsten kann. Das gennerelle Ziel von Brawl Stars ist es, so viele Trophäen wie möglich zu sammeln.</p>
+<p>Brawl Stars ist ein Spiel, in dem man Charaktere hat und mit diesen in verschiedenen Modi spielen kann. Ein Modus nennt sich beispielsweise Showdown. Showdown kann man als Solo, Duo oder Trio spielen. Dort ist das Ziel, der letzte Überlebende zu sein. Dies kann man erreichen, indem man andere Spieler eliminiert. In Abhängigkeit von der Platzierung erhält man Trophäen. Durch das Sammeln von Trophäen und anderen Gegenständen, kann man Belohnungen freischalten. Die Charaktere werden Brawler genannt. Mittlerweile gibt es 89 verschiedene Brawler, die man mit unterschiedlichen Fähigkeiten ausrüsten kann. Das generelle Ziel von Brawl Stars ist es, so viele Trophäen wie möglich zu sammeln.</p>
 
 
 <p><h1><u><a target="_blank" style="color: #00ccff;"></p>Die Firmen hinter den Spielen</a></u></h1>
@@ -145,10 +145,10 @@ Epic Games ist eine Firma, die mit Hilfe der Grafik Engine: Unreal Engine Comput
 <p><u><a target="_blank" style="color: #00ccff;"></p>Zu Mo.CO</a></u></h1>
 
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
- <p>In dem neuen MMO von Supercell kann man in eine offene Welt eintauchen, in der man Monster jagen kann. Ebenfalls gibt es die Möglichkeit, sein "Deck" individuell anzupassen. Das heißt, dass man seine Waffe, seine Gadgets, seine Passivfähigkeiten und seine Ringe aus einer großen Auswahl selbst zusammenstellen kann.</p>
- <p>Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
+ <p>In dem neuen MMO von Supercell kann man in eine offene Welt eintauchen, in der man Monster jagen kann. Ebenfalls gibt es die Möglichkeit, sein "Deck" individuell anzupassen. Das heißt, dass man seine Waffe, seine Gadgets, seine Passivfähigkeiten und seine Ringe aus einer großen Auswahl selbst zusammenstellen kann.
+Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwas dabei.</p>
 <h3>Top Tipps zu Mo.Co</h3>
- <p>1. Schnelles Aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen, welches einem XP vershaft welches wiederrum dazu führt das man hoch level. </p>
+ <p>1. Schnelles Aufsteigen ist so wichtig, wie bei keinem anderen Supercell Spiel. Um schnell zu leveln, kann man Story-Quests, Tagesjobs und Events spielen bzw. erledigen, welches einem XP verschafft welches wiederrum dazu führt das man hoch level. </p>
  <p>2. Für jedes Level, brauch man 100.000 XP. Die verschiedenen Monster geben XP daruaf ankommend wie schwer es ist sie zu töten. Außerdem kann man durch benutzung seiner Fähigkeiten, und spielen der Welten Quests erledigen welche einem zwischen 2.000 bis 10.000 XP verschaffen.
  <p>3. Fernkampfwaffen sind aktuell besonders stark.</p>
  <p>4. Rifts und offene Welten sind gut für XP, Chaos Kerne und Chaos-Scherben. PVP Modi sind eher als Spaßfaktor im Spiel.</p>
@@ -215,40 +215,39 @@ Epic Games ist eine Firma, die mit Hilfe der Grafik Engine: Unreal Engine Comput
 <h2><p>Unserer Meinung nach, sind <a href="https://youtube.com/@ipsycootv?si=oCEVTu6Xup3C4RbQ">iPsycooTV</a> und <a href="https://youtube.com/@itzugaming-moco?si=7LS5WUOBGZT8hfCH">iTzu Gaming - Moco</a> die besten deutschen Mo.Co YouTuber.</h2>
 
  <h1 id="zu Fortnite-">
-Zu Fortnite
- </h1>
+<p><u><a target="_blank" style="color: #00ccff;"></p>Zu Fortnite</a></u></h1>
 <p>
 Fortnite ist ein sehr komplexes Spiel, was dazu führt, dass es keine konkreten generellen Tipps gibt. Wir werden auf unserer Website das ganze Spiel und den Battle Royale und Reload Modus erklären. Wir werden auch ein paar hilfreiche kreativ Maps teilen.
 <p>
 <h3>Für Anfänger</h3>
 <h4>Infos:</h4><p>
-<p><b>Bauen:</b> Bauen ist eine Hauptfunktion des Spiels. Die meisten Spieler sagen, dass diese Funktion Fortnite einzigartig macht. Bauen kann man Wände, Treppen(eine gerade Schräg nach vorne), kleine Pyramiden, und Böden. Diese kann man in den verschiedenen Arten von Materialien bauen. Materialien muss man sich durch seine Pickaxe holen. Es gibt Holz, Stein und Metall. Holz kann durch das Abbauen von Bäumen, Büschen oder Holzwänden und aus Kisten erhalten werden. Gebäude aus Holz werden am schnellsten gebaut und haben am wenigsten Kondition. Stein kann durch Abbauen von Steinen, Felsen, einigen Erzen und Steinmauern oder aus Kisten erhalten werden. Gebäude aus Stein werden durchschnittlich schnell gebaut und haben durchschnittlich viel Kondition. Metal kann durch Abbauen von Fahrzeugen, Verkehrsschildern und einigen Erzen oder aus Kisten erhalten werden. Gebäude aus Eisen werden am langsamsten gebaut und halten am meisten aus.
-Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung eines Gegners sich bewegen und außerdem um den Gegner unter Kontrolle zu halten und ihn einfach abschießen kann, ohne dass er wegrennen oder einen selber zurück treffen kann.
+<p><b>Bauen:</b> Bauen ist eine Hauptfunktion des Spiels. Die meisten Spieler sagen, dass diese Funktion Fortnite einzigartig macht. Bauen kann man Wände, Treppen(eine gerade Schräge nach vorne), kleine Pyramiden, und Böden. Diese kann man in den verschiedenen Arten von Materialien bauen. Materialien muss man sich durch seine Pickaxe holen. Es gibt Holz, Stein und Metall. Holz kann durch das Abbauen von Bäumen, Büschen oder Holzwänden und aus Kisten erhalten werden. Gebäude aus Holz werden am schnellsten gebaut und haben am wenigsten Kondition. Stein kann durch Abbauen von Steinen, Felsen, einigen Erzen und Steinmauern oder aus Kisten erhalten werden. Gebäude aus Stein werden durchschnittlich schnell gebaut und haben durchschnittlich viel Kondition. Metall kann durch Abbauen von Fahrzeugen, Verkehrsschildern und einigen Erzen oder aus Kisten erhalten werden. Gebäude aus Metall werden am langsamsten gebaut und halten am meisten aus.
+Bauen wird benutzt, um sich selbst zu verteidigen, um sich sicher in Richtung eines Gegners zu bewegen und außerdem um den Gegner unter Kontrolle zu halten und ihn einfach abschießen kann, ohne dass er wegrennen oder einen selber zurück treffen kann.
 <p><b>HP/TP:</b> Hit Points oder Trefferpunkte, auch HP oder TP genannt, sind die Anzahl an "Leben", die ein Spieler hat. Diese kann durch Schaden von gegnerischen Waffen, Fall Schaden und Explosionen abgezogen werden. Sobald man 0 HP/TP hat, ist man tot. Man kann diese aber auch durch Heilung wiederherstellen und erhöhen. Grundsätzlich fängt man mit 100 HP/TP an und man kann sie immer bis 200 erhöhen durch Heilung. Man sollte immer auf seine HP/TP achten, da diese bestimmt, ob man fast tot ist oder noch eine gute Menge an Schaden aushalten kann.
-<p><b>Battle Royale:</b> Battle Royale ist der Standardmodus des Spiels. In diesem Modus springen 100 Spieler (einer davon du) aus einem fliegenden Bus fallschirmspringen um auf einer Karte zu landen. Dort sammelt man Waffen zu kämpfen; Materialien zu bauen und Heilung, um sich 200 Trefferpunkte zu verschaffen. Im Rest des Spiels kämpft man gegen andere Spieler und versucht, der letzte Überlebende zu sein. Es gibt eine Zone, die einen Trefferpunkte abzieht, wenn man drinnen ist. Diese ist als Kreis geformt und wird immer enger, um Spieler zum Kämpfen zu bringen. 
+<p><b>Battle Royale:</b> Battle Royale ist der Standardmodus des Spiels. In diesem Modus springen 100 Spieler (einer davon du) aus einem fliegenden Bus fallschirmspringen um auf einer Karte zu landen. Dort sammelt man Waffen um zu kämpfen; Materialien um zu bauen; und Heilung, um sich 200 Trefferpunkte zu verschaffen. Im Rest des Spiels kämpft man gegen andere Spieler und versucht, der letzte Überlebende zu sein. Es gibt eine Zone, die einem Trefferpunkte abzieht, wenn man drinnen ist. Diese ist als Kreis geformt und wird immer enger, um Spieler zum Kämpfen zu bringen. 
 <p><b>Reload:</b>Der Reload-Modus in Fortnite ist ein schneller Team-Modus, bei dem ausgeschiedene Spieler nach einer gewissen Zeit automatisch wiederbelebt werden, solange mindestens ein Teammitglied noch am Leben ist. Ziel ist es, das letzte überlebende Team zu sein. Die Map ist kleiner als im normalen Battle Royale, was für intensivere und häufigere Gefechte sorgt. Durch das automatische Respawn-System bleibt das Spiel dynamisch und actionreich, da Spieler öfter Chancen bekommen, zurückzukehren und weiterzukämpfen.
-<p><b>Creative Maps:</b> Creative Maps in Fortnite sind von Spielern erstellte, eigene Spielwelten und Levels, die man im Creative Mode bauen kann. Damit kannst du deine eigenen Spiele, Abenteuer oder Wettbewerbe gestalten und mit anderen teilen. Näturlich kann man auch die Creativ Maps veröffentlichen, damit andere die Map spielen können. Als Map creator kann man auch Geld dazu verdienen, darauf ankommend wie viele Leute die Map spielen. Spieler können die Maps Privat also alleine oder mit seinen Freunden spielen. Man kann das ganze auch im öffentlichen Modus spielen, also mit online Spielern, die man nicht kennt. Es kommt darauf an wie viele Spieler der map Creator zulässt.
+<p><b>Creativ Maps:</b> Creativ Maps in Fortnite sind von Spielern erstellte, eigene Spielwelten und Levels, die man im Creativ Mode bauen kann. Damit kannst du deine eigenen Spiele, Abenteuer oder Wettbewerbe gestalten und mit anderen teilen. Näturlich kann man auch die Creativ Maps veröffentlichen, damit andere die Map spielen können. Als Map creator kann man auch Geld dazu verdienen, darauf ankommend wie viele Leute die Map spielen. Spieler können die Maps Privat also alleine oder mit seinen Freunden spielen. Man kann das ganze auch im öffentlichen Modus spielen, also mit online Spielern, die man nicht kennt. Es kommt darauf an wie viele Spieler der map Creator zulässt.
 
-<p><b>Generelle Tipps:
-</b>1.Baue schnell und effizient: Am besten ist es, wenn du Wände, Rampen und Böden schnell bauen zu lernst. Das kann dir in Kämpfen Schutz bieten und dir taktische Vorteile verschaffen.
+<p><b>Generelle Tipps:</b></p>
+<p>1.Baue schnell und effizient: Am besten ist es, wenn du Wände, Rampen und Böden schnell bauen zu lernst. Das kann dir in Kämpfen Schutz bieten und dir taktische Vorteile verschaffen.</p>
 
-2.Sammle immer Materialien: Holz, Stein und Metall sind Vorteilhaft. Geh nicht in den Kampf, ohne genügend Baumaterial zu haben, weil sonst kannst du nicht bauen.
+<p>2.Sammle immer Materialien: Holz, Stein und Metall sind Vorteilhaft. Geh nicht in den Kampf, ohne genügend Baumaterial zu haben, weil sonst kannst du nicht bauen.</p>
 
-3.Achte auf die Kreis-Position: Halte dich immer im sicheren Bereich des Sturms auf, damit du nicht unnötig Schaden bekommst.
+<p>3.Achte auf die Kreis-Position: Halte dich immer im sicheren Bereich des Sturms auf, damit du nicht unnötig Schaden bekommst.</p>
 
-4.Wähle deine Kämpfe: Nicht jeder Gegner muss bekämpft werden. Manchmal ist es besser, sich zurückzuziehen oder andere Spieler anzugreifen, die schwächer sind.
+<p>4.Wähle deine Kämpfe: Nicht jeder Gegner muss bekämpft werden. Manchmal ist es besser, sich zurückzuziehen oder andere Spieler anzugreifen, die schwächer sind.</p>
 
-5.Nutze Kopfhörer: So kannst du besser hören, wo Gegner sind, zum Beispiel durch Schritte oder Schüsse.
+<p>5.Nutze Kopfhörer: So kannst du besser hören, wo Gegner sind, zum Beispiel durch Schritte oder Schüsse.</p>
 
-6.Verbessere deine Zielgenauigkeit: Übe regelmäßig im Kreativmodus, um dein Zielen und Schießen zu verbessern.
+<p>6.Verbessere deine Zielgenauigkeit: Übe regelmäßig im Kreativmodus, um dein Zielen und Schießen zu verbessern.</p>
 
-7.Behalte deine Health im Auge: Trinke Schilde und heile dich, wenn du sicher bist.Vorallemding solltest du niemals unvorbereitet in den Kampf gehen.
+<p>7.Behalte deine Health im Auge: Trinke Schilde und heile dich, wenn du sicher bist. Vor allem solltest du niemals unvorbereitet in den Kampf gehen.</p>
 
-8.Lerne die Waffen kennen: Jede Waffe hat Vor- und Nachteile. Finde heraus, welche dir am besten liegen und passe deine Strategie entsprechend an.
+<p>8.Lerne die Waffen kennen: Jede Waffe hat Vor- und Nachteile. Finde heraus, welche dir am besten liegen und passe deine Strategie entsprechend an.</p>
 
-9.Bewege dich taktisch: Nutze Deckungen, bleib in Bewegung und vermeide es, offen auf dem Feld zu stehen.
+<p>9.Bewege dich taktisch: Nutze Deckungen, bleib in Bewegung und vermeide es, offen auf dem Feld zu stehen.</p>
 
-10.Bleib ruhig und konzentriert: Panik führt zu Fehlern. Versuche ruhig zu bleiben, auch wenn es spannend wird.
+<p>10.Bleib ruhig und konzentriert: Panik führt zu Fehlern. Versuche ruhig zu bleiben, auch wenn es spannend wird.</p>
 
 
 &nbsp;
@@ -267,7 +266,9 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
  <p>5. Die Steuerelemente können individuell angepasst werden. </p> 
 
 
-
+&nbsp; 
+<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
+&nbsp;
 
 <!DOCTYPE html>
 <html lang="de">
@@ -335,10 +336,14 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 </body>
 </html>
 
+&nbsp; 
+<p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
+&nbsp;
+
 
 &nbsp;
 <h2><p>Unserer Meinung nach, sind <a href="https://www.youtube.com/@JoJonasBrawlStars">Jo Jonas - Brawl Stars
-</a> und <a href="https://www.youtube.com/@SnakeThugDE">Snake Thug Brawl - Stars (Deutsch)</a> die besten deutschenBrawl Stars YouTuber.</h2>
+</a> und <a href="https://www.youtube.com/@SnakeThugDE">Snake Thug - Brawl Stars (Deutsch)</a> die besten deutschen Brawl Stars YouTuber.</h2>
 
 
 
@@ -394,5 +399,5 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
 </head>
 <body>
 
-Brawl Stars ist ein sehr individuelles Spiel mit vielen verschiedenen Funktionen. Obwohl das Spiel am Anfang kompliziert scheint, wird es schon schnell leichter und fängt an, echt Spaß zu machen. Mit den verschiedenen Funktionen kann man viel ausprobieren und entdeckt neue Features die einem gefallen können. Dies sorgt für Lieblingsbrawler und Grinds um diese zu pushen. 
 
+Brawl Stars ist ein sehr individuelles Spiel mit vielen verschiedenen Funktionen. Obwohl das Spiel am Anfang kompliziert scheint, wird es schon schnell leichter und fängt an, echt Spaß zu machen. Mit den verschiedenen Funktionen kann man viel ausprobieren und entdeckt neue Features die einem gefallen können. Dies sorgt für Lieblingsbrawler und Grinds um diese zu pushen. 
