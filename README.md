@@ -393,3 +393,5 @@ Diese Funktion wird benutzt, um sich selbst zu verteidigen, sicher in Richtung e
     </style>
 </head>
 <body>
+unsere Erfahrungen mit Brawlstars:
+Brawlstars ist ein sehr individuelles Spiel,da ist für jeden was dabei.mit den verschiedenen brawlern und beine vielfalt an Skins für jeden brawler.das gamplay ist selbst erklärend und einfach zu verstehen.man kann auch bei jedem brawler verschiedene gadgets,Starpowers und gears.
