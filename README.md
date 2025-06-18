@@ -256,8 +256,8 @@ Bauen wird benutzt, um sich selbst zu verteidigen, um sich sicher in Richtung ei
 
  <h1 id="zu Brawl Stars-">Zu Brawl Stars</h1>
  <h3>Unsere Erfahrungen mit diesem Spiel</h3>
- <p></p>
- <p></p>
+ <p>Brawl Stars ist ein sehr individuelles Spiel mit vielen verschiedenen Funktionen. Obwohl das Spiel am Anfang kompliziert scheint, wird es schon schnell leichter und fängt an, echt Spaß zu machen. Mit den verschiedenen Funktionen kann man viel ausprobieren und entdeckt neue Features die einem gefallen können. Dies sorgt für Lieblingsbrawler und Grinds um diese zu pushen. </p>
+
 <h3>Top Tipps zu Brawl Stars</h3>
  <p>1. Um mehr 💚Leben zu haben und mehr Schaden zu machen ist es wichtig, die Brawler hochzuleveln.</p>
  <p>2. Um am Ende der Runde zu gewinnen sollten die richtigen Gadgets und Starpowers genutzt werden.</p>
@@ -398,6 +398,3 @@ Bauen wird benutzt, um sich selbst zu verteidigen, um sich sicher in Richtung ei
     </style>
 </head>
 <body>
-
-
-Brawl Stars ist ein sehr individuelles Spiel mit vielen verschiedenen Funktionen. Obwohl das Spiel am Anfang kompliziert scheint, wird es schon schnell leichter und fängt an, echt Spaß zu machen. Mit den verschiedenen Funktionen kann man viel ausprobieren und entdeckt neue Features die einem gefallen können. Dies sorgt für Lieblingsbrawler und Grinds um diese zu pushen. 
