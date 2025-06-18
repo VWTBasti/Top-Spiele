@@ -157,7 +157,7 @@ Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwa
 <p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
 &nbsp;
 <p id="zu Waffen Tier List-"></p>
-<p><a target="_blank" style="color: #00ccff;"></p><h1>Waffen Tier List</h1></a>
+<p><u><a target="_blank" style="color: #00ccff;"></p><h1>Waffen Tier List</h1></a></u>
 &nbsp;
  <p align="center"><a target="_blank" style="color: #00ccff;"><h1> S Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/speedshot-moco-gear.webp" width="120 "height="160">
@@ -180,7 +180,7 @@ Egal ob man lieber Healer, Tanker oder Damage Dealer spielt, für jeden ist etwa
 <p><a target="_blank" style="color: #e00707;"></p><h2>!Alle Tier Lists stellen unsere persönliche Meinung dar und basieren auf unseren Erfahrungen sowie Inspirationen von externen Quellen!</a></h2>
 &nbsp;
 <p id="zu Gadget Tier List-"></p>
-<p><a target="_blank" style="color: #00ccff;"></p><h1>Gadget Tier List</h1></a>
+<p><u><a target="_blank" style="color: #00ccff;"></p><h1>Gadget Tier List</h1></a></u>
 &nbsp;
  <p align="center"><a target="_blank" style="color: #00ccff;"><h1> S Tier </h1></a><p>
   <img src="https://images.mobi.gg/uploads/2025/03/really-cool-sticker-moco-gear.webp" width="120 "height="160">
